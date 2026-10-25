@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>{{POST_TITLE}} | Salam Properties</title>
+<meta content="{{POST_EXCERPT}}" name="description"/>
+<link href="assets/images/favicon.png" rel="icon" type="image/png"/>
+
+
+<link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
+<link href="assets/vendor/bootstrap.min.css" rel="stylesheet"/>
+<link href="assets/vendor/bootstrap-icons.min.css" rel="stylesheet"/>
+<link href="assets/css/news-shell.css" rel="stylesheet"/>
+<link href="assets/css/news-page.css" rel="stylesheet"/>
+<link href="assets/css/inner-pages.css" rel="stylesheet"/>
+</head>
+<body>
+<!--HEADER-->
+<!-- POST HERO -->
+<section class="hero post-hero">
+<div class="hero-container">
+<a class="post-back" href="news.php"><i class="bi bi-arrow-left"></i> Back to News</a>
+<div><span class="blog-badge">{{POST_BADGE}}</span></div>
+<h1>{{POST_TITLE}}</h1>
+<div class="post-meta">{{POST_META}}</div>
+</div>
+</section>
+<!-- POST CONTENT -->
+<div class="main-wrapper" id="main">
+<div class="blog-layout post-layout">
+<article class="post-article">
+<div class="post-cover"><img alt="{{POST_ALT}}" src="{{POST_COVER}}"/></div>
+<p class="post-lede">{{POST_EXCERPT}}</p>
+<div class="post-content">{{POST_CONTENT}}</div>
+<div class="post-footer">
+<div class="post-tags">{{POST_TAGS}}</div>
+<a class="read-more" href="news.php"><i class="bi bi-arrow-left"></i> All news &amp; insights</a>
+</div>
+<section class="post-related">{{RELATED_POSTS}}</section>
+</article>
+<!-- RIGHT SIDEBAR -->
+<aside class="sidebar">
+<div class="sidebar-widget">
+<h3 class="sidebar-title">Search</h3>
+<form action="news.php" class="news-search-card card" method="get" role="search">
+<div class="card-body">
+<label class="visually-hidden" for="postSearchInput">Search news</label>
+<div class="input-group news-search-group">
+<input autocomplete="off" class="form-control search-input" id="postSearchInput" name="q" placeholder="Search titles, tags&hellip;" type="search" value="{{NEWS_Q}}"/>
+<button aria-label="Search" class="btn news-search-btn" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+</div>
+<input name="category" type="hidden" value="{{NEWS_CAT}}"/>
+</div>
+</form>
+</div>
+<div class="sidebar-widget">
+<h3 class="sidebar-title">Categories</h3>
+<div class="card sb-card">
+<div class="list-group list-group-flush sb-list">
+<!--NEWS_CATEGORIES_START-->
+<a class="list-group-item list-group-item-action cat-item" href="news.php"><span class="cat-label"><i class="bi bi-collection"></i><span>All News</span></span></a>
+<!--NEWS_CATEGORIES_END-->
+</div>
+</div>
+</div>
+<div class="sidebar-widget">
+<h3 class="sidebar-title">Recent Posts</h3>
+<div class="card sb-card">
+<div class="list-group list-group-flush sb-list">
+<!--NEWS_RECENT_START-->
+<a class="list-group-item list-group-item-action recent-item" href="news.php"><span class="recent-post-info"><span class="recent-post-title">Browse the latest articles</span></span></a>
+<!--NEWS_RECENT_END-->
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<!-- CTA SECTION -->
+<section class="cta-section">
+<div class="cta-content">
+<h2>Your dream home awaits</h2>
+<p>Whether you're exploring our homes or envisioning something custom, we're here to bring your dream to life.</p>
+<a class="btn-cta" href="contact.php">Get Your Free Quote <i class="bi bi-arrow-right"></i></a>
+</div>
+</section>
+<!--FOOTER-->
+<script src="assets/js/service-page.js"></script>
+</body>
+</html>

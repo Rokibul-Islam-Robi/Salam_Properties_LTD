@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Expert real estate services from Salam Properties — development, management, investment, construction, design, sales and marketing." name="description"/>
+<title>{{PAGE_TITLE}} — Service Details | Salam Properties</title>
+<link href="assets/images/favicon.png" rel="icon" type="image/png"/>
+
+
+<link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon"/>
+        <link href="assets/vendor/bootstrap.min.css" rel="stylesheet"/>
+<link href="assets/vendor/bootstrap-icons.min.css" rel="stylesheet"/>
+<link href="assets/css/service-page.css" rel="stylesheet"/>
+<link href="assets/css/service-details.css" rel="stylesheet"/>
+<link href="assets/css/inner-pages.css" rel="stylesheet"/>
+</head>
+<body>
+<!--HEADER-->
+<main id="main">
+<section class="page-hero sd-hero" {{HERO_STYLE}}>
+<div class="hero-overlay"></div>
+<div class="container hero-inner">
+<h1>{{PAGE_TITLE}}</h1>
+<div class="breadcrumb">
+<a href="index.php">Home</a>
+<span>•</span>
+<a href="services.php">Services</a>
+<span>•</span>
+<span>{{BREADCRUMB_TITLE}}</span>
+</div>
+</div>
+</section>
+
+<section class="sd-main">
+<div class="container sd-layout">
+
+<div class="sd-content">
+<img alt="{{FEATURED_ALT}}" class="sd-featured" src="{{FEATURED_IMAGE}}"/>
+
+<section class="sd-block sd-about">
+<h2>{{ABOUT_HEADING}}</h2>
+<p>{{ABOUT_P1}}</p>
+<p>{{ABOUT_P2}}</p>
+</section>
+
+<section class="sd-block sd-why">
+<h2>{{WHY_HEADING}}</h2>
+<p class="sd-lead">{{WHY_DESC}}</p>
+<div class="sd-why-grid">
+{{WHY_CARDS}}
+</div>
+</section>
+
+<section class="sd-block sd-offerings">
+<h2>{{OFFERINGS_HEADING}}</h2>
+<ul class="sd-offering-list">
+{{OFFERINGS}}
+</ul>
+</section>
+
+<section class="sd-block sd-faq">
+<h2>{{FAQ_HEADING}}</h2>
+<div class="sd-faq-list">
+{{FAQS}}
+</div>
+</section>
+</div>
+
+<aside class="sd-sidebar">
+<div class="sd-widget sd-services-widget">
+<h3 class="sd-widget-title">More Services</h3>
+<nav aria-label="More services" class="sd-service-list">
+{{MORE_SERVICES}}
+</nav>
+</div>
+<div class="sd-widget sd-cta-widget">
+<div class="sd-cta-overlay"></div>
+<div class="sd-cta-inner">
+<span class="sd-cta-icon"><i class="bi bi-telephone-fill"></i></span>
+<p class="sd-cta-label">Need expert guidance?</p>
+<a class="sd-cta-phone" href="tel:{{PHONE_HREF}}">{{PHONE_DISPLAY}}</a>
+<a class="sd-cta-btn" href="contact.php">Get a Call Back <i class="bi bi-arrow-right"></i></a>
+</div>
+</div>
+</aside>
+
+</div>
+</section>
+
+<section class="cta">
+<div class="cta-overlay"></div>
+<div class="container cta-content">
+<p class="cta-kicker">Let's build something great</p>
+<h2>Your dream<br/>home awaits</h2>
+<p class="cta-text">Whether you're exploring our homes or envisioning something custom, we're here to bring your dream to life.</p>
+<a class="cta-button" href="contact.php">Get Your<br/>Free<br/>Quote</a>
+</div>
+</section>
+</main>
+<!--FOOTER-->
+<script src="assets/vendor/bootstrap.bundle.min.js"></script>
+<script src="assets/js/service-details.js"></script>
+</body>
+</html>

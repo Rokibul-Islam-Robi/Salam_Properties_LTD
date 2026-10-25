@@ -1,0 +1,21 @@
+/* leadership.css — team grid for leadership.php; hero/cta/intro reuse service-page.css */
+.ld-main{background:#fff;border-radius:30px 30px 0 0;padding:72px 0 104px;margin-top:-1px;position:relative;z-index:3}
+.ld-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:14px}
+.ld-card{border:1px solid #deded8;border-radius:18px;overflow:hidden;background:#fff;transition:transform .25s,box-shadow .25s}
+.ld-card:hover{transform:translateY(-6px);box-shadow:0 18px 40px rgba(20,25,15,.09)}
+.ld-portrait{padding:5px}
+.ld-portrait img{width:100%;height:380px;object-fit:cover;object-position:top center;border-radius:14px;transition:transform .5s cubic-bezier(.4,0,.2,1)}
+.ld-card:hover .ld-portrait img{transform:scale(1.04)}
+.ld-caption{padding:20px 22px 26px}
+.ld-caption h3{margin:0 0 5px;font-size:24px;line-height:1.1;letter-spacing:-.5px}
+.ld-caption small{color:#6d7068;font-size:13px;font-weight:600;letter-spacing:.3px}
+.ld-divider{display:block;width:36px;height:3px;background:#e6f23a;border-radius:2px;margin:14px 0 12px}
+.ld-caption p{margin:0;color:#6d7068;font-size:15px;line-height:1.6}
+@media(max-width:1000px){
+  .ld-grid{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:760px){
+  .ld-main{border-radius:24px 24px 0 0;padding:52px 0 70px}
+  .ld-grid{grid-template-columns:1fr;gap:15px}
+  .ld-portrait img{height:340px}
+}

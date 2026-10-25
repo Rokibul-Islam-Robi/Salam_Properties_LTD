@@ -1,0 +1,1253 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Spaciaz — Real Estate &amp; Construction</title>
+<meta content="Spaciaz real estate, investment and construction homepage template." name="description"/>
+<link href="assets/images/favicon.png" rel="icon" type="image/png"/>
+<link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="assets/vendor/bootstrap.min.css" rel="stylesheet"/>
+<link href="assets/vendor/bootstrap-icons.min.css" rel="stylesheet"/>
+<link href="assets/css/style.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/swiper@14.0.1/swiper-bundle.min.css" rel="stylesheet"/>
+</head>
+<body>
+<a class="skip-link" data-cms-key="index.text.0" href="#main">
+        Skip to content
+    </a>
+<!-- Header -->
+<header class="topbar">
+<nav aria-label="Main navigation" class="navbar navbar-expand-lg nav-shell">
+<!-- Logo -->
+<a class="navbar-brand" href="#home">
+<img alt="Salam Properties" class="logo" data-cms-image-key="index.image.0" src="assets/images/Logo_Four.png"/>
+</a>
+<!-- Mobile Menu Button -->
+<button aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#mainNav" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<!-- Navigation -->
+<div class="collapse navbar-collapse" id="mainNav">
+<ul class="navbar-nav me-auto">
+<li class="nav-item">
+<a class="nav-link active" data-cms-key="index.text.1" href="#home">
+                            Home
+                        </a>
+</li>
+<li class="nav-item dropdown">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-cms-key="index.text.2" href="#" role="button">
+                            Pages
+                        </a>
+<ul class="dropdown-menu">
+<li>
+<a class="dropdown-item" data-cms-key="index.text.3" href="./about.php">
+                                    About us
+                                </a>
+</li>
+<li>
+<a class="dropdown-item" data-cms-key="index.text.4" href="./leadership.php">
+                                    Our leadership
+                                </a>
+</li>
+<li>
+<a class="dropdown-item" data-cms-key="index.text.5" href="./why-choose-us.php">
+                                    Why choose us
+                                </a>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-cms-key="index.text.6" href="./services.php">
+                            Services
+                        </a>
+</li>
+<li class="nav-item">
+
+<li class="nav-item">
+<a class="nav-link" data-cms-key="index.text.7" href="./project.html">
+                            Projects
+                        </a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-cms-key="index.text.8" href="./news.php">
+                            News
+                        </a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-cms-key="index.text.9" href="./contact.php">
+                            Contact
+                        </a>
+</li>
+</ul>
+        <!-- Header Contact -->
+        <div class="nav-contact">
+            <div class="header-phone-box">
+                <span class="phone-label">Call Us:</span>
+                <a class="header-phone" data-cms-key="index.text.10" href="tel:01796000000">
+                    01796000000
+                </a>
+            </div>
+            <a class="btn-acid" href="./contact.php">
+                Get In Touch
+            </a>
+        </div>
+</div>
+</nav>
+</header>
+<!-- Main Content -->
+<main id="main">
+<!-- =========================================
+            HERO SECTION
+========================================== -->
+<section class="hero-section" id="home">
+<div class="hero-bg"></div>
+<div class="container hero-content">
+<div class="hero-title">
+<h1>
+                        Shaping Tomorrow’s<br/>
+                        Skylines Across Bangladesh
+                    </h1>
+<p>
+                        Salam Properties Ltd. is dedicated to engineering premium residential and commercial landmarks in prime locations across Bangladesh. We combine architectural distinction, structural safety, and timely delivery.
+                    </p>
+</div>
+<div class="hero-bottom">
+<h4 data-cms-key="index.text.11">
+                        We developed landmark real estate projects that deliver lasting
+                        value to investors and communities.
+                    </h4>
+<a class="watch-pill" href="./services.php">
+                        Explore Portfolio
+                        <span>
+<i aria-hidden="true" class="bi bi-arrow-up-right"></i>
+</span>
+</a>
+</div>
+</div>
+</section>
+
+<!-- =========================================
+            VIDEO POPUP MODAL
+========================================== -->
+<div id="videoModal" style="display: none; position: fixed; z-index: 9999; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.85); align-items: center; justify-content: center;">
+    <div style="position: relative; width: 90%; max-width: 800px; background: #000; border-radius: 8px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.5);">
+        <!-- ক্লোজ বাটন -->
+        <button id="closeVideoBtn" style="position: absolute; top: 15px; right: 20px; background: transparent; border: none; color: #fff; font-size: 30px; cursor: pointer; z-index: 10;">&times;</button>
+        
+        <!-- ভিডিও কন্টেইনার -->
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+            <iframe id="popupVideo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
+<!-- =========================================
+             HERO FEATURES
+        ========================================== -->
+<section aria-label="Our expertise" class="hero-features">
+<div class="container">
+<div class="row g-4">
+<!-- Feature 1 -->
+<div class="col-md-4">
+<article class="feature-card">
+<div class="feature-icon">
+<i aria-hidden="true" class="bi bi-bounding-box"></i>
+</div>
+<h5 data-cms-key="index.text.12">
+    Modern Architecture
+</h5>
+<p data-cms-key="index.text.13">
+    BNBC &amp; RAJUK compliant design precision.
+</p>
+</article>
+</div>
+<!-- Feature 2 -->
+<div class="col-md-4">
+<article class="feature-card">
+<div class="feature-icon">
+<i aria-hidden="true" class="bi bi-brightness-high"></i>
+</div>
+<h5 data-cms-key="index.text.14">
+    Uncompromising Safety
+</h5>
+<p data-cms-key="index.text.15">
+    High-grade materials with earthquake-resistant engineering.
+</p>
+</article>
+</div>
+<!-- Feature 3 -->
+<div class="col-md-4">
+<article class="feature-card">
+<div class="feature-icon">
+<i aria-hidden="true" class="bi bi-arrows-angle-expand"></i>
+</div>
+<h5 data-cms-key="index.text.16">
+    On-Time Handover
+</h5>
+<p data-cms-key="index.text.17">
+    Strict commitment to project completion schedules across all developments.
+</p>
+</article>
+</div>
+</div>
+</div>
+</section>
+<!-- =========================================
+             ABOUT SECTION
+        ========================================== -->
+<!-- =========================================
+            ABOUT SECTION
+========================================== -->
+<section class="about-section section" id="about">
+  <div class="container">
+    
+    <!-- Top Row: Badge, Title & Mission/Vision -->
+    <div class="about-intro">
+      <div>
+        <button class="loop-btn">
+          <div class="scroll-track">
+            <span data-cms-key="index.text.18">WHO WE ARE</span>
+            <span data-cms-key="index.text.19">WHO WE ARE</span>
+            <span data-cms-key="index.text.20">WHO WE ARE</span>
+            <span data-cms-key="index.text.21">WHO WE ARE</span>
+          </div>
+        </button>
+      </div>
+
+
+    <!-- Bottom Row: Big Image (Left) & 3 Stats Cards (Right) -->
+    <div class="custom-about-layout">
+      <!-- Main Photo -->
+      <div class="about-photo cut-corner">
+        <img alt="Contemporary residential building on a city street" data-cms-image-key="index.image.1" src="assets/images/h1_img-1.jpg"/>
+      </div>
+            <div>
+        <h2 data-cms-key="index.text.22">
+          Building Trust, Creating Value Across Bangladesh
+        </h2>
+        <div class="row g-4 small-copy-grid">
+          <!-- Vision / Overview -->
+          <div class="col-12">
+            <p data-cms-key="index.text.23" style="font-size: 16px; line-height: 1.7; color: #555;">
+              Salam Properties Ltd. stands as a hallmark of excellence in Bangladesh's real estate sector. We design and build modern living spaces and commercial hubs that blend aesthetic elegance with structural integrity.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+      
+              <!-- Stat 1 -->
+       <div class="row g-4 justify-content-between align-items-center">
+            <div class="stat-box col-12 col-md-12 col-lg-3">
+            <span data-cms-key="index.text.25">
+            Experience
+            </span>
+            <div>
+            <strong class="counter-num" data-target="15">
+                0<sup>+</sup>
+            </strong>
+            <small>
+                Years Experience
+            </small>
+            </div>
+        </div>
+
+        <!-- Stat 2 -->
+        <div class="stat-box col-12 col-md-12 col-lg-3">
+            <span data-cms-key="index.text.26">
+            Completed Projects
+            </span>
+            <div>
+            <strong class="counter-num" data-target="25">
+                0<sup>+</sup>
+            </strong>
+            <small>
+                Landmark Developments
+            </small>
+            </div>
+        </div>
+
+        <!-- Stat 3 -->
+        <div class="stat-box col-12 col-md-12 col-lg-3">
+            <span data-cms-key="index.text.27">
+            Handover Record
+            </span>
+            <div>
+            <strong class="counter-num" data-target="100">
+                0<sup>%</sup>
+            </strong>
+            <small>
+                On-Time Handover Record
+            </small>
+            </div>
+        </div>
+       </div>
+
+
+    </div>
+
+  </div>
+</section>
+<!-- =========================================
+             SERVICES SECTION
+        ========================================== -->
+<section class="services-section section" id="services">
+<div class="container">
+<div class="section-intro text-center">
+<button class="loop-btn">
+<div class="scroll-track">
+<span data-cms-key="index.text.28">WHAT WE OFFER</span>
+<span data-cms-key="index.text.29">WHAT WE OFFER</span>
+<span data-cms-key="index.text.30">WHAT WE OFFER</span>
+<span data-cms-key="index.text.31">WHAT WE OFFER</span>
+</div>
+</button>
+<h2>
+                        Take a brief look at<br/>
+                        some of the services<br/>
+                        we offer
+                    </h2>
+</div>
+<div class="service-grid">
+<!-- Card 1 -->
+<div class="service-card">
+<div class="hover-bg"></div>
+<div class="card-content">
+<h3>Residential<br/>Developments</h3>
+<p style="font-size: 13px; color: #666; margin-top: 6px; line-height: 1.4;">Luxury apartments, gated communities, and modern residences in prime urban locations.</p>
+<div class="arrow-btn">
+<svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewbox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg>
+</div>
+<img alt="Residential Developments" class="card-img" data-cms-image-key="index.image.3" src="assets/images/h1_service-1.png">
+</img></div>
+</div>
+<!-- Card 2 -->
+<div class="service-card">
+<div class="hover-bg"></div>
+<div class="card-content">
+<h3>Commercial<br/>Properties</h3>
+<p style="font-size: 13px; color: #666; margin-top: 6px; line-height: 1.4;">State-of-the-art corporate office buildings, commercial complexes, and retail spaces.</p>
+<div class="arrow-btn">
+<svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewbox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg>
+</div>
+<img alt="Commercial Properties" class="card-img" data-cms-image-key="index.image.4" src="assets/images/h1_service-2.png">
+</img></div>
+</div>
+<!-- Card 3 -->
+<div class="service-card">
+<div class="hover-bg"></div>
+<div class="card-content">
+<h3>Property<br/>Management</h3>
+<p style="font-size: 13px; color: #666; margin-top: 6px; line-height: 1.4;">Post-handover facility management, security administration, and continuous care.</p>
+<div class="arrow-btn">
+<svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewbox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg>
+</div>
+<img alt="Property Management" class="card-img" data-cms-image-key="index.image.5" src="assets/images/h1_service-3.png">
+</img></div>
+</div>
+</div>
+<!-- -->
+<div class="service-grid">
+<!-- Card 4 -->
+<div class="service-card service-card-bottom">
+<div class="hover-bg"></div>
+<div class="card-content">
+<h3>Architectural<br/>Design</h3>
+<p style="font-size: 13px; color: #666; margin-top: 6px; line-height: 1.4;">Master-planned urban structures adhering strictly to international safety standards.</p>
+<div class="arrow-btn">
+<svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewbox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg>
+</div>
+<img alt="Architectural Design" class="card-img" data-cms-image-key="index.image.6" src="assets/images/h1_service-1.png"/>
+</div>
+</div>
+<!-- Card 5 -->
+<div class="service-card service-card-bottom">
+<div class="hover-bg"></div>
+<div class="card-content">
+<h3>Engineering &amp;<br/>Construction</h3>
+<p style="font-size: 13px; color: #666; margin-top: 6px; line-height: 1.4;">BNBC compliant high-grade structural engineering with turnkey project execution.</p>
+<div class="arrow-btn">
+<svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewbox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg>
+</div>
+<img alt="Engineering & Construction" class="card-img" data-cms-image-key="index.image.7" src="assets/images/h1_service-2.png"/>
+</div>
+</div>
+</div>
+</div>
+
+</section>
+<!-- =========================================
+             PROJECTS SECTION
+        ========================================== -->
+<section aria-label="Featured projects" class="projects-section" id="projects">
+<div class="projects-swiper swiper">
+<div class="swiper-wrapper">
+<!-- Project 01 -->
+<div class="swiper-slide project-slide">
+<div class="projects-left">
+<div class="project-heading">
+<!-- <button class="loop-btn" type="button" aria-label="Projects">
+                            <div class="scroll-track scroll-track-two">
+                                <span>Project</span>
+                                <span>Project</span>
+                                <span>Project</span>
+                                <span>Project</span>
+                            </div>
+                        </button> -->
+<h2>Engineered For Safety,<br/>Designed For Luxury</h2>
+</div>
+<a class="project-info active" href="#contact">
+<span class="project-number" data-cms-key="index.text.32">01</span>
+<div>
+<small>
+<i aria-hidden="true" class="bi bi-geo-alt"></i>
+                                Bay Shore, NY
+                            </small>
+<h4 data-cms-key="index.text.33">Apartment Building</h4>
+</div>
+</a>
+</div>
+<div class="projects-right">
+<img alt="Apartment Building" data-cms-image-key="index.image.8" loading="eager" src="assets/images/project_9.jpg"/>
+</div>
+</div>
+<!-- Project 02 -->
+<div class="swiper-slide project-slide">
+<div class="projects-left">
+<div class="project-heading">
+<!-- <button class="loop-btn" type="button" aria-label="Projects">
+                            <div class="scroll-track scroll-track-two">
+                                <span>Project</span>
+                                <span>Project</span>
+                                <span>Project</span>
+                                <span>Project</span>
+                            </div>
+                        </button> -->
+<h2>Engineered For Safety,<br/>Designed For Luxury</h2>
+</div>
+<a class="project-info active" href="#contact">
+<span class="project-number" data-cms-key="index.text.34">02</span>
+<div>
+<small>
+<i aria-hidden="true" class="bi bi-geo-alt"></i>
+                                Miami, Florida
+                            </small>
+<h4 data-cms-key="index.text.35">Eden Estate</h4>
+</div>
+</a>
+</div>
+<div class="projects-right">
+<img alt="Eden Estate" data-cms-image-key="index.image.9" loading="eager" src="assets/images/project_6.jpg"/>
+</div>
+</div>
+<!-- Project 03 -->
+<div class="swiper-slide project-slide">
+<div class="projects-left">
+<div class="project-heading">
+<!-- <button class="loop-btn" type="button" aria-label="Projects">
+                            <div class="scroll-track scroll-track-two">
+                                <span>Project</span>
+                                <span>Project</span>
+                                <span>Project</span>
+                                <span>Project</span>
+                            </div>
+                        </button> -->
+<h2>Engineered For Safety,<br/>Designed For Luxury</h2>
+</div>
+<a class="project-info active" href="#contact">
+<span class="project-number" data-cms-key="index.text.36">03</span>
+<div>
+<small>
+<i aria-hidden="true" class="bi bi-geo-alt"></i>
+                                Vancouver
+                            </small>
+<h4 data-cms-key="index.text.37">Vida at Council Square</h4>
+</div>
+</a>
+</div>
+<div class="projects-right">
+<img alt="Vida at Council Square" data-cms-image-key="index.image.10" loading="eager" src="assets/images/project_2.jpg"/>
+</div>
+</div>
+<!-- Project 04 -->
+<div class="swiper-slide project-slide">
+<div class="projects-left">
+<div class="project-heading">
+<!-- <button class="loop-btn" type="button" aria-label="Projects">
+                            <div class="scroll-track scroll-track-two">
+                                <span>Project</span>
+                                <span>Project</span>
+                                <span>Project</span>
+                                <span>Project</span>
+                            </div>
+                        </button> -->
+<h2>Engineered For Safety,<br/>Designed For Luxury</h2>
+</div>
+<a class="project-info active" href="#contact">
+<span class="project-number" data-cms-key="index.text.38">04</span>
+<div>
+<small>
+<i aria-hidden="true" class="bi bi-geo-alt"></i>
+                                Phoenix, AZ
+                            </small>
+<h4 data-cms-key="index.text.39">Office Building</h4>
+</div>
+</a>
+</div>
+<div class="projects-right">
+<img alt="Office Building" data-cms-image-key="index.image.11" loading="eager" src="assets/images/project_5.jpg"/>
+</div>
+</div>
+</div>
+<div aria-label="Project slides" class="projects-pagination"></div>
+</div>
+</section>
+<!-- =========================================
+             COMMITMENT / DIFFERENCE SECTION
+        ========================================== -->
+<section class="commitment-section section" id="difference">
+<div class="container">
+<div class="commitment-grid">
+<div class="commitment-photo cut-corner">
+<img alt="Design team reviewing plans together" data-cms-image-key="index.image.12" loading="eager" src="assets/images/h1_img-3.jpg"/>
+<div class="rating-chip">
+<strong>
+                                5
+                            </strong>
+<div class="avatars">
+<img alt="" data-cms-image-key="index.image.13" src="assets/images/avatar-1.jpg"/>
+<img alt="" data-cms-image-key="index.image.14" src="assets/images/avatar-2.jpg"/>
+<img alt="" data-cms-image-key="index.image.15" src="assets/images/avatar-3.jpg"/>
+</div>
+<span class="stars" data-cms-key="index.text.40">
+                                ★★★★★
+                            </span>
+<small>
+                                Trusted by our customers
+                            </small>
+</div>
+</div>
+<div class="commitment-content">
+<button class="loop-btn">
+<div class="scroll-track">
+<span data-cms-key="index.text.41">OUR COMMITMENT</span>
+<span data-cms-key="index.text.42">OUR COMMITMENT</span>
+<span data-cms-key="index.text.43">OUR COMMITMENT</span>
+<span data-cms-key="index.text.44">OUR COMMITMENT</span>
+</div>
+</button>
+<h2>
+                            Why Choose<br/>
+                            Salam Properties Ltd.
+                        </h2>
+<p class="section-lead" data-cms-key="index.text.45">
+                            Every Salam Properties project is built with premium grade steel, high-strength concrete, and international standard electrical and fire-safety fittings in strict compliance with BNBC.
+                        </p>
+<div class="commitment-list">
+<!-- Value 1 -->
+<div class="value-row">
+<b>
+<i aria-hidden="true" class="bi bi-file-earmark-check"></i>
+</b>
+<h6>
+                                    100% Legal<br/>
+                                    Transparency
+                                </h6>
+<p data-cms-key="index.text.46">
+                                    Clear property titles, verified documentation, and seamless ownership registration.
+                                </p>
+</div>
+<!-- Value 2 -->
+<div class="value-row">
+<b>
+<i aria-hidden="true" class="bi bi-shield-check"></i>
+</b>
+<h6>
+                                    BNBC &amp; Safety<br/>
+                                    Standard
+                                </h6>
+<p data-cms-key="index.text.47">
+                                    Strict adherence to Bangladesh National Building Code with earthquake-resistant structural engineering.
+                                </p>
+</div>
+<!-- Value 3 -->
+<div class="value-row">
+<b>
+<i aria-hidden="true" class="bi bi-person-heart"></i>
+</b>
+<h6>
+                                    Customer-Centric<br/>
+                                    Care
+                                </h6>
+<p data-cms-key="index.text.48">
+                                    Dedicated support and relationship management from initial booking to handover.
+                                </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- =========================================
+             TESTIMONIAL SECTION
+        ========================================== -->
+<section class="testimonial-section">
+<div class="medallion">
+<div class="circular-badge">
+<!-- Circular Rotating Text SVG -->
+<svg class="rotating-text" height="300" viewbox="0 0 300 300" width="300">
+<defs>
+<!-- Circle path defined for text to follow -->
+<path d="M 150, 150 m -115, 0 a 115,115 0 1,1 230,0 a 115,115 0 1,1 -230,0" id="circlePath"></path>
+</defs>
+<text fill="#000000" font-size="20" font-weight="700" letter-spacing="2px">
+<textpath href="#circlePath" startoffset="0%">
+                        WHAT PEOPLE SAYS • WHAT PEOPLE SAYS • WHAT PEOPLE SAYS • 
+                    </textpath>
+</text>
+</svg>
+<!-- Center Image & Quote Icon Container -->
+<div class="center-content">
+<img alt="Building" class="building-img" data-cms-image-key="index.image.16" src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&amp;fit=crop&amp;w=500&amp;q=80"/>
+<!-- Quote Icon Overlay -->
+<div class="quote-icon">
+<svg fill="#ffffff" height="36" viewbox="0 0 24 24" width="36">
+<path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"></path>
+</svg>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="carousel slide" data-bs-interval="false" id="testimonialCarousel">
+<div class="carousel-inner">
+<!-- Testimonial 1 -->
+<div class="carousel-item active">
+<div class="testimonial-box">
+<blockquote>
+    “Our commitment at Salam Properties Ltd. goes beyond constructing buildings. We craft secure, elegant homes where generations can thrive with complete peace of mind.”
+</blockquote>
+<div class="person">
+    Chairman &amp; Managing Director
+    <small>
+        Salam Properties Ltd.
+    </small>
+</div>
+</div>
+</div>
+<!-- Testimonial 2 -->
+<div class="carousel-item">
+<div class="testimonial-box">
+<blockquote>
+    “Every project is engineered in strict compliance with BNBC and international safety standards, delivering long-term architectural value across Bangladesh.”
+</blockquote>
+<div class="person">
+    Director of Engineering &amp; Operations
+    <small>
+        Salam Properties Ltd.
+    </small>
+</div>
+</div>
+</div>
+</div>
+<!-- Previous -->
+<button aria-label="Previous testimonial" class="carousel-side left" data-bs-slide="prev" data-bs-target="#testimonialCarousel">
+<i aria-hidden="true" class="bi bi-arrow-left"></i>
+</button>
+<!-- Next -->
+<button aria-label="Next testimonial" class="carousel-side right" data-bs-slide="next" data-bs-target="#testimonialCarousel">
+<i aria-hidden="true" class="bi bi-arrow-right"></i>
+</button>
+</div>
+</div>
+</section>
+<!-- =========================================
+             PARTNERS SECTION
+        ========================================== -->
+<section class="partners-section" id="partners">
+<div class="container">
+<!-- <p class="partner-caption">
+                    Our trusted partners and collaborators
+                </p> -->
+<section class="partners-section" id="partners">
+<h2 class="section-title" data-cms-key="index.text.49">Our trusted partners and collaborators</h2>
+<div class="marquee-container">
+<div class="marquee-track partner-logos">
+<img alt="Partner 1" data-cms-image-key="index.image.17" loading="eager" src="assets/images/partner-1.svg"/>
+<img alt="Partner 2" data-cms-image-key="index.image.18" loading="eager" src="assets/images/partner-2.svg"/>
+<img alt="Partner 3" data-cms-image-key="index.image.19" loading="eager" src="assets/images/partner-3.svg"/>
+<img alt="Partner 4" data-cms-image-key="index.image.20" loading="eager" src="assets/images/partner-4.svg"/>
+<img alt="Partner 5" data-cms-image-key="index.image.21" loading="eager" src="assets/images/partner-5.svg"/>
+<img alt="Partner 6" data-cms-image-key="index.image.22" loading="eager" src="assets/images/partner-6.svg"/>
+<img alt="Partner 1" data-cms-image-key="index.image.23" loading="eager" src="assets/images/partner-1.svg"/>
+<img alt="Partner 2" data-cms-image-key="index.image.24" loading="eager" src="assets/images/partner-2.svg"/>
+<img alt="Partner 3" data-cms-image-key="index.image.25" loading="eager" src="assets/images/partner-3.svg"/>
+<img alt="Partner 4" data-cms-image-key="index.image.26" loading="eager" src="assets/images/partner-4.svg"/>
+<img alt="Partner 5" data-cms-image-key="index.image.27" loading="eager" src="assets/images/partner-5.svg"/>
+<img alt="Partner 6" data-cms-image-key="index.image.28" loading="eager" src="assets/images/partner-6.svg"/>
+</div>
+</div>
+</section>
+</div>
+</section>
+<!-- =========================================
+             TEAM SECTION
+        ========================================== -->
+<section class="team-section section" id="team">
+<div class="container">
+<div class="text-center">
+<button class="loop-btn">
+<div class="scroll-track">
+<span data-cms-key="index.text.50">OUR TEAM</span>
+<span data-cms-key="index.text.51">OUR TEAM</span>
+<span data-cms-key="index.text.52">OUR TEAM</span>
+<span data-cms-key="index.text.53">OUR TEAM</span>
+</div>
+</button>
+<h2>
+                        Global executive<br/>
+                        leadership
+                    </h2>
+</div>
+<div class="row g-4 team-grid">
+<!-- Team Member 1 -->
+<div class="col-md-4">
+<a href="./leadership.php" class="team-card">
+<div class="team-portrait">
+<img alt="Dennis Daniels" data-cms-image-key="index.image.29" loading="eager" src="assets/images/team-1.jpg"/>
+<a href="./leadership.php" aria-label="View Dennis Daniels" class="circle-link" data-image="team-1.jpg" data-preview="Dennis Daniels — Founder &amp; CEO" type="button">
+<i aria-hidden="true" class="bi bi-arrow-up-right"></i>
+</a>
+<div class="team-caption">
+<small>Founder &amp; CEO</small>
+<h5 data-cms-key="index.text.54">Dennis Daniels</h5>
+</div>
+</div>
+</a>
+</div>
+<!-- Team Member 2 -->
+<div class="col-md-4">
+<a href="./leadership.php" class="team-card">
+<div class="team-portrait">
+<img alt="Johan Sanford" data-cms-image-key="index.image.30" loading="eager" src="assets/images/team-2.jpg"/>
+<a href="./leadership.php" aria-label="View Johan Sanford" class="circle-link" data-image="team-2.jpg" data-preview="Johan Sanford — Executive Assistant" type="button">
+<i aria-hidden="true" class="bi bi-arrow-up-right"></i>
+</a>
+<div class="team-caption">
+<small>Executive Assistant</small>
+<h5 data-cms-key="index.text.55">Johan Sanford</h5>
+</div>
+</div>
+</a>
+</div>
+<!-- Team Member 3 -->
+<div class="col-md-4">
+<a href="./leadership.php" class="team-card">
+<div class="team-portrait">
+<img alt="Floyd Miles" data-cms-image-key="index.image.31" loading="eager" src="assets/images/team-3.jpg"/>
+<a href="./leadership.php" aria-label="View Floyd Miles" class="circle-link" data-image="team-3.jpg" data-preview="Floyd Miles — Director of Architecture" type="button">
+<i aria-hidden="true" class="bi bi-arrow-up-right"></i>
+</a>
+<div class="team-caption">
+<small>Director of Architecture</small>
+<h5 data-cms-key="index.text.56">Floyd Miles</h5>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</section>
+<!-- =========================================
+             CONTACT SECTION
+        ========================================== -->
+<!-- =========================================
+            CONTACT SECTION
+========================================== -->
+<section class="contact-banner" id="contact">
+<div class="container">
+<div class="contact-panel">
+<div class="text-center">
+<button class="loop-btn" style="margin: 0 auto 12px;">
+<div class="scroll-track">
+<span data-cms-key="index.text.57">QUICK ENQUIRY</span>
+<span data-cms-key="index.text.58">QUICK ENQUIRY</span>
+<span data-cms-key="index.text.59">QUICK ENQUIRY</span>
+<span data-cms-key="index.text.60">QUICK ENQUIRY</span>
+</div>
+</button>
+<h3>
+                    Get specialist advice for residential,<br/>
+                    commercial or property
+                </h3>
+</div>
+
+<!-- ফর্মের সাথে id এবং onsubmit যুক্ত করা হয়েছে -->
+<form class="enquiry-form" id="enquiryForm" onsubmit="handleFormSubmit(event)">
+<div class="row g-3 mb-4">
+<!-- Name -->
+<div class="col-sm-6">
+<label class="visually-hidden" data-cms-key="index.text.61" for="name">
+                                Your name
+                            </label>
+<input class="form-control" id="name" name="name" placeholder="Your Name*" required=""/>
+</div>
+<!-- Email -->
+<div class="col-sm-6">
+<label class="visually-hidden" data-cms-key="index.text.62" for="email">
+                                Email
+                            </label>
+<input class="form-control" id="email" name="email" placeholder="Email*" required="" type="email"/>
+</div>
+<!-- Phone -->
+<div class="col-sm-6">
+<label class="visually-hidden" data-cms-key="index.text.63" for="phone">
+                                Phone number
+                            </label>
+<input class="form-control" id="phone" name="phone" placeholder="Phone Number*" required="" type="tel"/>
+</div>
+<!-- Interest -->
+<div class="col-sm-6">
+<label class="visually-hidden" data-cms-key="index.text.64" for="interest">
+                                Your interest
+                            </label>
+<select class="form-select" id="interest" name="interest">
+<option value="">
+                                    You inquiry about...
+                                </option>
+<option value="Residential property">
+                                    Residential property
+                                </option>
+<option value="Commercial property">
+                                    Commercial property
+                                </option>
+<option value="Investment & development">
+                                    Investment &amp; development
+                                </option>
+</select>
+</div>
+<!-- Description Message Box -->
+<div class="col-12">
+<textarea class="form-control" id="message" name="message" placeholder="Description / Your Message..." style="height: 120px; border-radius: 20px; resize: none; padding-top: 18px;"></textarea>
+</div>
+<!-- Form Bottom -->
+<div class="col-12 form-bottom mt-4">
+<label class="consent" data-cms-key="index.text.65">
+                                We're excited to connect with you! Required fields are marked *
+                            </label>
+<button class="btn-acid enquiry-submit-btn" type="submit" id="submitBtn">
+                                <span>Send enquiry</span>
+                                <div class="btn-icon-circle"><i aria-hidden="true" class="bi bi-arrow-up-right"></i></div>
+</button>
+</div>
+</div>
+
+<!-- সাকসেস মেসেজ দেখানোর জন্য স্টাইলসহ স্ট্যাটাস প্যারাগ্রাফ -->
+<p class="form-status" id="formStatus" role="status" style="display: none; margin-top: 15px; padding: 12px; background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; border-radius: 4px; font-weight: 500; text-align: center;"></p>
+</form>
+</div>
+</div>
+</section>
+<!-- =========================================
+             NEWS SECTION
+        ========================================== -->
+<section class="news-section section" id="news">
+<div class="container">
+<div class="news-heading">
+<div>
+<button class="loop-btn mb-2">
+<div class="scroll-track">
+<span data-cms-key="index.text.66">Articles &amp; insights</span>
+<span data-cms-key="index.text.67">Articles &amp; insights</span>
+<span data-cms-key="index.text.68">Articles &amp; insights</span>
+<span data-cms-key="index.text.69">Articles &amp; insights</span>
+</div>
+</button>
+<h2>
+                            Discover inspiration<br/>
+                            and trends
+                        </h2>
+</div>
+<a class="text-link" href="news.php">
+    <span>View All Posts</span>
+    <span class="icon-circle">
+        <i aria-hidden="true" class="bi bi-arrow-up-right"></i>
+    </span>
+</a>
+</div>
+<div class="row g-4">
+<!-- News 1 -->
+<div class="col-md-4">
+<article class="news-card">
+<button aria-label="Read Innovative Materials with a Touch of Luxury" class="news-image" data-image="blog_13.jpg" data-preview="Innovative Materials with a Touch of Luxury" type="button">
+<img alt="Innovative Materials with a Touch of Luxury" data-cms-image-key="index.image.32" loading="eager" src="assets/images/blog_13.jpg"/>
+</button>
+<div class="news-meta">
+<span data-cms-key="index.text.70">
+                                    Insights
+                                </span>
+<time datetime="2026-03-18">
+                                    March 18, 2026
+                                </time>
+</div>
+<h5>
+<a data-cms-key="index.text.71" href="#contact">
+                                    Innovative Materials with a Touch of Luxury
+                                </a>
+</h5>
+</article>
+</div>
+<!-- News 2 -->
+<div class="col-md-4">
+<article class="news-card">
+<button aria-label="Read All the Best Ideas in Construction" class="news-image" data-image="blog_1.jpg" data-preview="All the Best Ideas in Construction" type="button">
+<img alt="All the Best Ideas in Construction" data-cms-image-key="index.image.33" loading="eager" src="assets/images/blog_1.jpg"/>
+</button>
+<div class="news-meta">
+<span data-cms-key="index.text.72">
+                                    Construction
+                                </span>
+<time datetime="2026-03-18">
+                                    March 18, 2026
+                                </time>
+</div>
+<h5>
+<a data-cms-key="index.text.73" href="#contact">
+                                    All the Best Ideas in Construction
+                                </a>
+</h5>
+</article>
+</div>
+<!-- News 3 -->
+<div class="col-md-4">
+<article class="news-card">
+<button aria-label="Read Find Your Dream Home Today" class="news-image" data-image="blog_3.jpg" data-preview="Find Your Dream Home Today" type="button">
+<img alt="Find Your Dream Home Today" data-cms-image-key="index.image.34" loading="eager" src="assets/images/blog_3.jpg"/>
+</button>
+<div class="news-meta">
+<span data-cms-key="index.text.74">
+                                    Real estate
+                                </span>
+<time datetime="2026-03-18">
+                                    March 18, 2026
+                                </time>
+</div>
+<h5>
+<a data-cms-key="index.text.75" href="#contact">
+                                    Find Your Dream Home Today
+                                </a>
+</h5>
+</article>
+</div>
+</div>
+</div>
+</section>
+<!-- =========================================
+             FOOTER
+        ========================================== -->
+<footer class="footer-hero">
+<div class="footer-top">
+<div class="footer-top-inner container">
+    <div class="footer-top-text">
+        <h2>
+            Your dream<br/>
+            home awaits
+        </h2>
+        <p>
+            Discover an extraordinary place to call home.<br/>
+            Let’s make your next chapter something special.
+        </p>
+    </div>
+    <div class="footer-top-action">
+        <a class="quote-btn" href="#contact">
+            Get Your Free Quote <i class="bi bi-arrow-up-right"></i>
+        </a>
+    </div>
+</div>
+</div>
+<div aria-hidden="true" class="footer-watermark">
+    Salam Properties
+</div>
+<div class="footer-panels">
+<!-- Footer Panel 2 -->
+<div class="footer-panel">
+<div class="container">
+<div class="footer-grid">
+<!-- Brand -->
+<div>
+<a class="footer-brand" href="#home">
+<img alt="Salam Properties" class="logo" data-cms-image-key="index.image.35" src="assets/images/Logo_Four.png"/>
+</a>
+<p class="company-address">
+    Holding No - 0785, Haji Mohsin Road, Chandpur Sadar, Chandpur
+</p>
+</div>
+<!-- Company -->
+<div>
+<h6 data-cms-key="index.text.77">
+                                    Company
+                                </h6>
+<a data-cms-key="index.text.78" href="#about">
+                                    Who we are
+                                </a>
+<a data-cms-key="index.text.79" href="#difference">
+                                    Our values
+                                </a>
+<a data-cms-key="index.text.80" href="#team">
+                                    Our team
+                                </a>
+<a data-cms-key="index.text.81" href="#contact">
+                                    Careers
+                                </a>
+<a data-cms-key="index.text.82" href="#contact">
+                                    Get in touch
+                                </a>
+</div>
+<!-- Expertise -->
+<div>
+<h6 data-cms-key="index.text.83">
+                                    Our expertise
+                                </h6>
+<a data-cms-key="index.text.84" href="#services">
+                                    Real estate
+                                </a>
+<a data-cms-key="index.text.85" href="#services">
+                                    Construction
+                                </a>
+<a data-cms-key="index.text.86" href="#projects">
+                                    Our projects
+                                </a>
+<a data-cms-key="index.text.87" href="#news">
+                                    Insights
+                                </a>
+</div>
+<!-- Contact -->
+<div class="footer-contact">
+<h6 class="footer-contact-title">Contact Information</h6>
+<a data-cms-key="index.text.88" href="tel:01796000000">
+    01796000000
+</a>
+<a data-cms-key="index.text.89" href="mailto:info@salamproperties.com">
+    info@salamproperties.com
+</a>
+<div class="footer-social-btns">
+    <a href="https://facebook.com" target="_blank" rel="noopener" class="social-btn"><i class="bi bi-facebook"></i> Facebook</a>
+    <a href="https://instagram.com" target="_blank" rel="noopener" class="social-btn"><i class="bi bi-instagram"></i> Instagram</a>
+    <a href="https://youtube.com" target="_blank" rel="noopener" class="social-btn"><i class="bi bi-youtube"></i> Youtube</a>
+    <a href="https://twitter.com" target="_blank" rel="noopener" class="social-btn"><i class="bi bi-twitter-x"></i> Twitter</a>
+</div>
+</div>
+</div>
+<!-- Footer Bottom -->
+<div class="footer-bottom">
+<span data-cms-key="index.text.90">
+                                © 2026 Salam Properties. All Rights Reserved.
+                            </span>
+<span>
+<a data-cms-key="index.text.91" data-policy="Privacy policy" href="#contact">
+                                    Privacy policy
+                                </a>
+<a data-cms-key="index.text.92" data-policy="Terms of use" href="#contact">
+                                    Terms of use
+                                </a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</main>
+<!-- Back To Top -->
+<a aria-label="Back to top" class="back-to-top" href="#home">
+<i aria-hidden="true" class="bi bi-arrow-up"></i>
+</a>
+<!-- Preview Dialog -->
+<dialog class="preview-dialog">
+<button aria-label="Close preview" class="dialog-close" type="button">
+<i aria-hidden="true" class="bi bi-x-lg"></i>
+</button>
+<h3></h3>
+<img alt="" data-cms-image-key="index.image.36" hidden="" src="assets/images/project_9.jpg"/>
+<p class="dialog-note"></p>
+</dialog>
+<!-- JavaScript -->
+<script src="assets/vendor/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@14.0.1/swiper-bundle.min.js"></script>
+<script src="assets/js/main.js"></script>
+<script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const projectsSwiper = new Swiper(".projects-swiper", {
+                direction: "vertical",
+                slidesPerView: 1,
+                spaceBetween: 0,
+
+                speed: 800,
+
+                mousewheel: {
+                    enabled: true,
+                    sensitivity: 1,
+                    thresholdDelta: 30,
+                    thresholdTime: 500,
+                    releaseOnEdges: true
+                },
+
+                keyboard: {
+                    enabled: true,
+                    onlyInViewport: true
+                },
+
+                touchRatio: 1,
+
+                longSwipes: false,
+
+                pagination: {
+                    el: ".projects-pagination",
+                    clickable: true
+                },
+
+                observer: true,
+                observeParents: true
+            });
+        });
+    </script>
+    <script>
+function handleFormSubmit(event) {
+    event.preventDefault(); 
+    
+    const submitBtn = document.getElementById('submitBtn');
+    const formStatus = document.getElementById('formStatus');
+    const form = document.getElementById('enquiryForm');
+
+    const originalText = submitBtn.innerHTML;
+    submitBtn.innerHTML = 'Sending... <i aria-hidden="true" class="bi bi-arrow-up-right"></i>';
+    submitBtn.disabled = true;
+
+    const formData = new FormData(form);
+    fetch('api_inquiry.php', {
+        method: 'POST',
+        body: formData
+    })
+    .then(r => r.json())
+    .then(data => {
+        form.reset();
+        formStatus.style.display = 'block';
+        formStatus.innerHTML = data.message || 'Thank you! Your enquiry has been sent successfully.';
+        formStatus.className = 'form-status-success';
+        submitBtn.innerHTML = originalText;
+        submitBtn.disabled = false;
+        setTimeout(function() { formStatus.style.display = 'none'; }, 5000);
+    })
+    .catch(() => {
+        formStatus.style.display = 'block';
+        formStatus.innerHTML = 'Thank you! Your enquiry has been sent successfully. We will get back to you soon.';
+        form.reset();
+        submitBtn.innerHTML = originalText;
+        submitBtn.disabled = false;
+        setTimeout(function() { formStatus.style.display = 'none'; }, 5000);
+    });
+}
+</script>
+
+<!-- =========================================
+            JAVASCRIPT FOR POPUP
+========================================== -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const watchBtn = document.getElementById('watchVideoBtn');
+    const videoModal = document.getElementById('videoModal');
+    const closeBtn = document.getElementById('closeVideoBtn');
+    const popupVideo = document.getElementById('popupVideo');
+
+    const videoUrl = "https://cms.shantaholdings.com/media/media/Prism_small_vid.mp4";
+
+    if (watchBtn) {
+        watchBtn.addEventListener('click', function() {
+            videoModal.style.display = 'flex';
+            popupVideo.src = videoUrl;
+        });
+    }
+
+    if (closeBtn) {
+        closeBtn.addEventListener('click', function() {
+            videoModal.style.display = 'none';
+            popupVideo.src = ''; 
+        });
+    }
+
+    window.addEventListener('click', function(event) {
+        if (event.target === videoModal) {
+            videoModal.style.display = 'none';
+            popupVideo.src = '';
+        }
+    });
+// Number Counter Animation
+(function() {
+    const counters = document.querySelectorAll('.counter-num');
+    if (!counters.length) return;
+
+    let animated = false;
+
+    function animateCounters() {
+        counters.forEach(counter => {
+            const target = parseInt(counter.getAttribute('data-target'), 10);
+            const format = counter.getAttribute('data-format');
+            const duration = 1800; // 1.8 seconds
+            const startTime = performance.now();
+
+            function updateCounter(currentTime) {
+                const elapsed = currentTime - startTime;
+                const progress = Math.min(elapsed / duration, 1);
+                // easeOutExpo for corporate smooth feel
+                const ease = progress === 1 ? 1 : 1 - Math.pow(2, -10 * progress);
+                const currentVal = Math.floor(ease * target);
+
+                let displayVal = currentVal;
+                if (format === 'comma') {
+                    displayVal = currentVal.toLocaleString();
+                }
+
+                counter.innerHTML = displayVal + '<sup>+</sup>';
+
+                if (progress < 1) {
+                    requestAnimationFrame(updateCounter);
+                } else {
+                    counter.innerHTML = (format === 'comma' ? target.toLocaleString() : target) + '<sup>+</sup>';
+                }
+            }
+
+            requestAnimationFrame(updateCounter);
+        });
+    }
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting && !animated) {
+                animated = true;
+                animateCounters();
+            }
+        });
+    }, { threshold: 0.25 });
+
+    counters.forEach(c => observer.observe(c));
+})();
+});
+</script>
+</body>
+</html>

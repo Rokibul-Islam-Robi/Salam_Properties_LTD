@@ -1,0 +1,3396 @@
+{
+    "pages": {
+        "services": {
+            "text": [
+                {
+                    "key": "services.text.15",
+                    "tag": "h1",
+                    "value": "Our services",
+                    "original": "Our services"
+                },
+                {
+                    "key": "services.text.16",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "services.text.17",
+                    "tag": "span",
+                    "value": "•",
+                    "original": "•"
+                },
+                {
+                    "key": "services.text.18",
+                    "tag": "span",
+                    "value": "Our services",
+                    "original": "Our services"
+                },
+                {
+                    "key": "services.text.19",
+                    "tag": "span",
+                    "value": "WHAT WE DO",
+                    "original": "WHAT WE DO"
+                },
+                {
+                    "key": "services.text.20",
+                    "tag": "span",
+                    "value": "WHAT WE DO",
+                    "original": "WHAT WE DO"
+                },
+                {
+                    "key": "services.text.21",
+                    "tag": "span",
+                    "value": "WHAT WE DO",
+                    "original": "WHAT WE DO"
+                },
+                {
+                    "key": "services.text.22",
+                    "tag": "span",
+                    "value": "WHAT WE DO",
+                    "original": "WHAT WE DO"
+                },
+                {
+                    "key": "services.text.23",
+                    "tag": "p",
+                    "value": "We engage as early as possible, typically during the conceptual or schematic stage.",
+                    "original": "We engage as early as possible, typically during the conceptual or schematic stage."
+                },
+                {
+                    "key": "services.text.24",
+                    "tag": "p",
+                    "value": "Our comprehensive estimates also reflect available lower-price options.",
+                    "original": "Our comprehensive estimates also reflect available lower-price options."
+                },
+                {
+                    "key": "services.text.25",
+                    "tag": "p",
+                    "value": "We are focused on improving the way capital projects get done.",
+                    "original": "We are focused on improving the way capital projects get done."
+                },
+                {
+                    "key": "services.text.26",
+                    "tag": "p",
+                    "value": "From design to operations, we love to solve complex challenges and exceed expectations.",
+                    "original": "From design to operations, we love to solve complex challenges and exceed expectations."
+                },
+                {
+                    "key": "services.text.27",
+                    "tag": "p",
+                    "value": "We believe good architecture is a crucial foundation that influences the overall performance of a real estate...",
+                    "original": "We believe good architecture is a crucial foundation that influences the overall performance of a real estate..."
+                },
+                {
+                    "key": "services.text.28",
+                    "tag": "p",
+                    "value": "Building a real estate development is a complicated task requiring both deep understanding...",
+                    "original": "Building a real estate development is a complicated task requiring both deep understanding..."
+                },
+                {
+                    "key": "services.text.29",
+                    "tag": "p",
+                    "value": "Let's build something great",
+                    "original": "Let's build something great"
+                },
+                {
+                    "key": "services.text.30",
+                    "tag": "p",
+                    "value": "Whether you're exploring our homes or envisioning something custom, we're here to bring your dream to life.",
+                    "original": "Whether you're exploring our homes or envisioning something custom, we're here to bring your dream to life."
+                },
+                {
+                    "key": "header.0",
+                    "tag": "a",
+                    "value": "Skip to content",
+                    "original": "Skip to content"
+                },
+                {
+                    "key": "header.1",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.2",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.3",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.4",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.5",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.6",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "header.7",
+                    "tag": "span",
+                    "value": "Call Us:",
+                    "original": "Call Us:"
+                },
+                {
+                    "key": "header.8",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "header.9",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.10",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.11",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.12",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.13",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.14",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.1",
+                    "tag": "p",
+                    "value": "We are creators of transformative spaces that inspire, innovate, and endure.",
+                    "original": "We are creators of transformative spaces that inspire, innovate, and endure."
+                },
+                {
+                    "key": "footer.2",
+                    "tag": "a",
+                    "value": "About Us",
+                    "original": "About Us"
+                },
+                {
+                    "key": "footer.3",
+                    "tag": "a",
+                    "value": "Why Choose Us",
+                    "original": "Why Choose Us"
+                },
+                {
+                    "key": "footer.4",
+                    "tag": "a",
+                    "value": "Our Team",
+                    "original": "Our Team"
+                },
+                {
+                    "key": "footer.5",
+                    "tag": "a",
+                    "value": "Solutions",
+                    "original": "Solutions"
+                },
+                {
+                    "key": "footer.6",
+                    "tag": "a",
+                    "value": "Partners",
+                    "original": "Partners"
+                },
+                {
+                    "key": "footer.7",
+                    "tag": "a",
+                    "value": "Core Values",
+                    "original": "Core Values"
+                },
+                {
+                    "key": "footer.8",
+                    "tag": "a",
+                    "value": "Our Projects",
+                    "original": "Our Projects"
+                },
+                {
+                    "key": "footer.9",
+                    "tag": "a",
+                    "value": "News & Updates",
+                    "original": "News & Updates"
+                },
+                {
+                    "key": "footer.10",
+                    "tag": "a",
+                    "value": "Terms & Conditions",
+                    "original": "Terms & Conditions"
+                },
+                {
+                    "key": "footer.11",
+                    "tag": "a",
+                    "value": "Support Center",
+                    "original": "Support Center"
+                },
+                {
+                    "key": "footer.12",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.13",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "footer.14",
+                    "tag": "a",
+                    "value": "info@salmaproperties.com.bd",
+                    "original": "info@salmaproperties.com.bd"
+                },
+                {
+                    "key": "footer.15",
+                    "tag": "span",
+                    "value": "Facebook",
+                    "original": "Facebook"
+                },
+                {
+                    "key": "footer.16",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.17",
+                    "tag": "span",
+                    "value": "Instagram",
+                    "original": "Instagram"
+                },
+                {
+                    "key": "footer.18",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.19",
+                    "tag": "span",
+                    "value": "Youtube",
+                    "original": "Youtube"
+                },
+                {
+                    "key": "footer.20",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.21",
+                    "tag": "span",
+                    "value": "Twitter",
+                    "original": "Twitter"
+                },
+                {
+                    "key": "footer.22",
+                    "tag": "span",
+                    "value": "© 2026 Salam Properties. All Rights Reserved.",
+                    "original": "© 2026 Salam Properties. All Rights Reserved."
+                },
+                {
+                    "key": "footer.23",
+                    "tag": "span",
+                    "value": "Template Designed by CognovaIT",
+                    "original": "Template Designed by CognovaIT"
+                },
+                {
+                    "key": "footer.24",
+                    "tag": "a",
+                    "value": "Privacy Policy",
+                    "original": "Privacy Policy"
+                },
+                {
+                    "key": "footer.25",
+                    "tag": "span",
+                    "value": "|",
+                    "original": "|"
+                },
+                {
+                    "key": "footer.26",
+                    "tag": "a",
+                    "value": "Terms of Service",
+                    "original": "Terms of Service"
+                }
+            ],
+            "images": [
+                {
+                    "key": "services.image.1",
+                    "src": "assets/images/project_2.jpg",
+                    "alt": "Real estate development",
+                    "original_src": "assets/images/project_2.jpg",
+                    "original_alt": "Real estate development"
+                },
+                {
+                    "key": "services.image.2",
+                    "src": "assets/images/h1_img-2.jpg",
+                    "alt": "Project management",
+                    "original_src": "assets/images/h1_img-2.jpg",
+                    "original_alt": "Project management"
+                },
+                {
+                    "key": "services.image.3",
+                    "src": "assets/images/team-2.jpg",
+                    "alt": "Investment and capital",
+                    "original_src": "assets/images/team-2.jpg",
+                    "original_alt": "Investment and capital"
+                },
+                {
+                    "key": "services.image.4",
+                    "src": "assets/images/h1_service-3.png",
+                    "alt": "Construction management",
+                    "original_src": "assets/images/h1_service-3.png",
+                    "original_alt": "Construction management"
+                },
+                {
+                    "key": "services.image.5",
+                    "src": "assets/images/blog_1.jpg",
+                    "alt": "Architecture and design",
+                    "original_src": "assets/images/blog_1.jpg",
+                    "original_alt": "Architecture and design"
+                },
+                {
+                    "key": "services.image.6",
+                    "src": "assets/images/h1_img-3.jpg",
+                    "alt": "Sales and marketing",
+                    "original_src": "assets/images/h1_img-3.jpg",
+                    "original_alt": "Sales and marketing"
+                },
+                {
+                    "key": "header.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                },
+                {
+                    "key": "footer.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                }
+            ]
+        },
+        "project": {
+            "text": [
+                {
+                    "key": "project.text.15",
+                    "tag": "h1",
+                    "value": "Our services",
+                    "original": "Our services"
+                },
+                {
+                    "key": "project.text.16",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "project.text.17",
+                    "tag": "span",
+                    "value": "•",
+                    "original": "•"
+                },
+                {
+                    "key": "project.text.18",
+                    "tag": "span",
+                    "value": "Our services",
+                    "original": "Our services"
+                },
+                {
+                    "key": "project.text.19",
+                    "tag": "button",
+                    "value": "Search",
+                    "original": "Search"
+                },
+                {
+                    "key": "project.text.20",
+                    "tag": "span",
+                    "value": "ON SALE",
+                    "original": "ON SALE"
+                },
+                {
+                    "key": "project.text.21",
+                    "tag": "h3",
+                    "value": "Mixed-Use Development",
+                    "original": "Mixed-Use Development"
+                },
+                {
+                    "key": "project.text.22",
+                    "tag": "span",
+                    "value": "UNDER CONSTRUCTION",
+                    "original": "UNDER CONSTRUCTION"
+                },
+                {
+                    "key": "project.text.23",
+                    "tag": "h3",
+                    "value": "Greenview Apartments",
+                    "original": "Greenview Apartments"
+                },
+                {
+                    "key": "project.text.24",
+                    "tag": "span",
+                    "value": "ON SALE",
+                    "original": "ON SALE"
+                },
+                {
+                    "key": "project.text.25",
+                    "tag": "h3",
+                    "value": "Premier Office Tower",
+                    "original": "Premier Office Tower"
+                },
+                {
+                    "key": "project.text.26",
+                    "tag": "span",
+                    "value": "UNDER CONSTRUCTION",
+                    "original": "UNDER CONSTRUCTION"
+                },
+                {
+                    "key": "project.text.27",
+                    "tag": "h3",
+                    "value": "Urban Heights Residence",
+                    "original": "Urban Heights Residence"
+                },
+                {
+                    "key": "project.text.28",
+                    "tag": "span",
+                    "value": "UNDER CONSTRUCTION",
+                    "original": "UNDER CONSTRUCTION"
+                },
+                {
+                    "key": "project.text.29",
+                    "tag": "h3",
+                    "value": "Apartment Building",
+                    "original": "Apartment Building"
+                },
+                {
+                    "key": "project.text.30",
+                    "tag": "span",
+                    "value": "ON SALE",
+                    "original": "ON SALE"
+                },
+                {
+                    "key": "project.text.31",
+                    "tag": "h3",
+                    "value": "Commercial & Residential Building",
+                    "original": "Commercial & Residential Building"
+                },
+                {
+                    "key": "project.text.32",
+                    "tag": "span",
+                    "value": "UNDER CONSTRUCTION",
+                    "original": "UNDER CONSTRUCTION"
+                },
+                {
+                    "key": "project.text.33",
+                    "tag": "h3",
+                    "value": "Residential Complex",
+                    "original": "Residential Complex"
+                },
+                {
+                    "key": "project.text.34",
+                    "tag": "span",
+                    "value": "ON SALE",
+                    "original": "ON SALE"
+                },
+                {
+                    "key": "project.text.35",
+                    "tag": "h3",
+                    "value": "Eden Estate",
+                    "original": "Eden Estate"
+                },
+                {
+                    "key": "project.text.36",
+                    "tag": "span",
+                    "value": "UNDER CONSTRUCTION",
+                    "original": "UNDER CONSTRUCTION"
+                },
+                {
+                    "key": "project.text.37",
+                    "tag": "h3",
+                    "value": "Office Building",
+                    "original": "Office Building"
+                },
+                {
+                    "key": "project.text.38",
+                    "tag": "span",
+                    "value": "ON SALE",
+                    "original": "ON SALE"
+                },
+                {
+                    "key": "project.text.39",
+                    "tag": "h3",
+                    "value": "Luxury Apartment",
+                    "original": "Luxury Apartment"
+                },
+                {
+                    "key": "project.text.40",
+                    "tag": "span",
+                    "value": "ON SALE",
+                    "original": "ON SALE"
+                },
+                {
+                    "key": "project.text.41",
+                    "tag": "h3",
+                    "value": "Residential Building",
+                    "original": "Residential Building"
+                },
+                {
+                    "key": "project.text.42",
+                    "tag": "span",
+                    "value": "UNDER CONSTRUCTION",
+                    "original": "UNDER CONSTRUCTION"
+                },
+                {
+                    "key": "project.text.43",
+                    "tag": "h3",
+                    "value": "Vista at Council Square",
+                    "original": "Vista at Council Square"
+                },
+                {
+                    "key": "header.0",
+                    "tag": "a",
+                    "value": "Skip to content",
+                    "original": "Skip to content"
+                },
+                {
+                    "key": "header.1",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.2",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.3",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.4",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.5",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.6",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "header.7",
+                    "tag": "span",
+                    "value": "Call Us:",
+                    "original": "Call Us:"
+                },
+                {
+                    "key": "header.8",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "header.9",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.10",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.11",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.12",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.13",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.14",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.1",
+                    "tag": "p",
+                    "value": "We are creators of transformative spaces that inspire, innovate, and endure.",
+                    "original": "We are creators of transformative spaces that inspire, innovate, and endure."
+                },
+                {
+                    "key": "footer.2",
+                    "tag": "a",
+                    "value": "About Us",
+                    "original": "About Us"
+                },
+                {
+                    "key": "footer.3",
+                    "tag": "a",
+                    "value": "Why Choose Us",
+                    "original": "Why Choose Us"
+                },
+                {
+                    "key": "footer.4",
+                    "tag": "a",
+                    "value": "Our Team",
+                    "original": "Our Team"
+                },
+                {
+                    "key": "footer.5",
+                    "tag": "a",
+                    "value": "Solutions",
+                    "original": "Solutions"
+                },
+                {
+                    "key": "footer.6",
+                    "tag": "a",
+                    "value": "Partners",
+                    "original": "Partners"
+                },
+                {
+                    "key": "footer.7",
+                    "tag": "a",
+                    "value": "Core Values",
+                    "original": "Core Values"
+                },
+                {
+                    "key": "footer.8",
+                    "tag": "a",
+                    "value": "Our Projects",
+                    "original": "Our Projects"
+                },
+                {
+                    "key": "footer.9",
+                    "tag": "a",
+                    "value": "News & Updates",
+                    "original": "News & Updates"
+                },
+                {
+                    "key": "footer.10",
+                    "tag": "a",
+                    "value": "Terms & Conditions",
+                    "original": "Terms & Conditions"
+                },
+                {
+                    "key": "footer.11",
+                    "tag": "a",
+                    "value": "Support Center",
+                    "original": "Support Center"
+                },
+                {
+                    "key": "footer.12",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.13",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "footer.14",
+                    "tag": "a",
+                    "value": "info@salmaproperties.com.bd",
+                    "original": "info@salmaproperties.com.bd"
+                },
+                {
+                    "key": "footer.15",
+                    "tag": "span",
+                    "value": "Facebook",
+                    "original": "Facebook"
+                },
+                {
+                    "key": "footer.16",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.17",
+                    "tag": "span",
+                    "value": "Instagram",
+                    "original": "Instagram"
+                },
+                {
+                    "key": "footer.18",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.19",
+                    "tag": "span",
+                    "value": "Youtube",
+                    "original": "Youtube"
+                },
+                {
+                    "key": "footer.20",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.21",
+                    "tag": "span",
+                    "value": "Twitter",
+                    "original": "Twitter"
+                },
+                {
+                    "key": "footer.22",
+                    "tag": "span",
+                    "value": "© 2026 Salam Properties. All Rights Reserved.",
+                    "original": "© 2026 Salam Properties. All Rights Reserved."
+                },
+                {
+                    "key": "footer.23",
+                    "tag": "span",
+                    "value": "Template Designed by CognovaIT",
+                    "original": "Template Designed by CognovaIT"
+                },
+                {
+                    "key": "footer.24",
+                    "tag": "a",
+                    "value": "Privacy Policy",
+                    "original": "Privacy Policy"
+                },
+                {
+                    "key": "footer.25",
+                    "tag": "span",
+                    "value": "|",
+                    "original": "|"
+                },
+                {
+                    "key": "footer.26",
+                    "tag": "a",
+                    "value": "Terms of Service",
+                    "original": "Terms of Service"
+                }
+            ],
+            "images": [
+                {
+                    "key": "project.image.1",
+                    "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Mixed-Use Development",
+                    "original_src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Mixed-Use Development"
+                },
+                {
+                    "key": "project.image.2",
+                    "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Greenview Apartments",
+                    "original_src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Greenview Apartments"
+                },
+                {
+                    "key": "project.image.3",
+                    "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Premier Office Tower",
+                    "original_src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Premier Office Tower"
+                },
+                {
+                    "key": "project.image.4",
+                    "src": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Urban Heights Residence",
+                    "original_src": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Urban Heights Residence"
+                },
+                {
+                    "key": "project.image.5",
+                    "src": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Apartment Building",
+                    "original_src": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Apartment Building"
+                },
+                {
+                    "key": "project.image.6",
+                    "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Commercial & Residential",
+                    "original_src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Commercial & Residential"
+                },
+                {
+                    "key": "project.image.7",
+                    "src": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Residential Complex",
+                    "original_src": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Residential Complex"
+                },
+                {
+                    "key": "project.image.8",
+                    "src": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Eden Estate",
+                    "original_src": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Eden Estate"
+                },
+                {
+                    "key": "project.image.9",
+                    "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Office Building",
+                    "original_src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Office Building"
+                },
+                {
+                    "key": "project.image.10",
+                    "src": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Luxury Apartment",
+                    "original_src": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Luxury Apartment"
+                },
+                {
+                    "key": "project.image.11",
+                    "src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Residential Building",
+                    "original_src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Residential Building"
+                },
+                {
+                    "key": "project.image.12",
+                    "src": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=800&q=80",
+                    "alt": "Vista at Council Square",
+                    "original_src": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=800&q=80",
+                    "original_alt": "Vista at Council Square"
+                },
+                {
+                    "key": "header.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                },
+                {
+                    "key": "footer.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                }
+            ]
+        },
+        "about": {
+            "text": [
+                {
+                    "key": "about.text.13",
+                    "tag": "p",
+                    "value": "We design and build modern, functional and beautiful spaces that bring your vision to life.",
+                    "original": "We design and build modern, functional and beautiful spaces that bring your vision to life."
+                },
+                {
+                    "key": "about.text.14",
+                    "tag": "p",
+                    "value": "Spaciaz is a modern architecture and interior design studio, dedicated to creating spaces that inspire, function and last. We combine creativity, technology and craftsmanship to deliver exceptional results for residential, commercial and urban projects.",
+                    "original": "Spaciaz is a modern architecture and interior design studio, dedicated to creating spaces that inspire, function and last. We combine creativity, technology and craftsmanship to deliver exceptional results for residential, commercial and urban projects."
+                },
+                {
+                    "key": "about.text.15",
+                    "tag": "span",
+                    "value": "+",
+                    "original": "+"
+                },
+                {
+                    "key": "about.text.16",
+                    "tag": "h2",
+                    "value": "What We Do",
+                    "original": "What We Do"
+                },
+                {
+                    "key": "about.text.17",
+                    "tag": "p",
+                    "value": "From concept to completion, we offer a full range of architectural and design services tailored to your needs.",
+                    "original": "From concept to completion, we offer a full range of architectural and design services tailored to your needs."
+                },
+                {
+                    "key": "about.text.18",
+                    "tag": "h3",
+                    "value": "Architectural Design",
+                    "original": "Architectural Design"
+                },
+                {
+                    "key": "about.text.19",
+                    "tag": "p",
+                    "value": "Functional, modern and sustainable designs for your future.",
+                    "original": "Functional, modern and sustainable designs for your future."
+                },
+                {
+                    "key": "about.text.20",
+                    "tag": "h3",
+                    "value": "Interior Design",
+                    "original": "Interior Design"
+                },
+                {
+                    "key": "about.text.21",
+                    "tag": "p",
+                    "value": "Stylish and comfortable interiors that match your lifestyle.",
+                    "original": "Stylish and comfortable interiors that match your lifestyle."
+                },
+                {
+                    "key": "about.text.22",
+                    "tag": "h3",
+                    "value": "Construction",
+                    "original": "Construction"
+                },
+                {
+                    "key": "about.text.23",
+                    "tag": "p",
+                    "value": "Quality construction with professional supervision.",
+                    "original": "Quality construction with professional supervision."
+                },
+                {
+                    "key": "about.text.24",
+                    "tag": "h3",
+                    "value": "Renovation",
+                    "original": "Renovation"
+                },
+                {
+                    "key": "about.text.25",
+                    "tag": "p",
+                    "value": "Breathe new life into your existing space.",
+                    "original": "Breathe new life into your existing space."
+                },
+                {
+                    "key": "about.text.26",
+                    "tag": "h3",
+                    "value": "3D Visualization",
+                    "original": "3D Visualization"
+                },
+                {
+                    "key": "about.text.27",
+                    "tag": "p",
+                    "value": "See your dream space before it’s built.",
+                    "original": "See your dream space before it’s built."
+                },
+                {
+                    "key": "about.text.28",
+                    "tag": "h3",
+                    "value": "Project Management",
+                    "original": "Project Management"
+                },
+                {
+                    "key": "about.text.29",
+                    "tag": "p",
+                    "value": "On-time delivery with complete transparency.",
+                    "original": "On-time delivery with complete transparency."
+                },
+                {
+                    "key": "about.text.30",
+                    "tag": "h2",
+                    "value": "Featured Projects",
+                    "original": "Featured Projects"
+                },
+                {
+                    "key": "about.text.31",
+                    "tag": "p",
+                    "value": "Explore some of our recent work and see how we turn ideas into exceptional spaces.",
+                    "original": "Explore some of our recent work and see how we turn ideas into exceptional spaces."
+                },
+                {
+                    "key": "about.text.32",
+                    "tag": "h3",
+                    "value": "Modern Family House",
+                    "original": "Modern Family House"
+                },
+                {
+                    "key": "about.text.33",
+                    "tag": "h3",
+                    "value": "Modern Office Space",
+                    "original": "Modern Office Space"
+                },
+                {
+                    "key": "about.text.34",
+                    "tag": "h3",
+                    "value": "Luxury Apartment",
+                    "original": "Luxury Apartment"
+                },
+                {
+                    "key": "about.text.35",
+                    "tag": "p",
+                    "value": "We go beyond design — we build lasting relationships through trust, quality and exceptional service.",
+                    "original": "We go beyond design — we build lasting relationships through trust, quality and exceptional service."
+                },
+                {
+                    "key": "about.text.36",
+                    "tag": "h3",
+                    "value": "Creative Team",
+                    "original": "Creative Team"
+                },
+                {
+                    "key": "about.text.37",
+                    "tag": "p",
+                    "value": "Skilled professionals with a passion for design.",
+                    "original": "Skilled professionals with a passion for design."
+                },
+                {
+                    "key": "about.text.38",
+                    "tag": "h3",
+                    "value": "On-Time Delivery",
+                    "original": "On-Time Delivery"
+                },
+                {
+                    "key": "about.text.39",
+                    "tag": "p",
+                    "value": "We respect your time and plan efficiently.",
+                    "original": "We respect your time and plan efficiently."
+                },
+                {
+                    "key": "about.text.40",
+                    "tag": "h3",
+                    "value": "Premium Quality",
+                    "original": "Premium Quality"
+                },
+                {
+                    "key": "about.text.41",
+                    "tag": "p",
+                    "value": "Only the best materials and craftsmanship.",
+                    "original": "Only the best materials and craftsmanship."
+                },
+                {
+                    "key": "about.text.42",
+                    "tag": "h3",
+                    "value": "Client Focused",
+                    "original": "Client Focused"
+                },
+                {
+                    "key": "about.text.43",
+                    "tag": "p",
+                    "value": "Your satisfaction is our top priority.",
+                    "original": "Your satisfaction is our top priority."
+                },
+                {
+                    "key": "about.text.44",
+                    "tag": "h2",
+                    "value": "What Our Clients Say",
+                    "original": "What Our Clients Say"
+                },
+                {
+                    "key": "about.text.45",
+                    "tag": "p",
+                    "value": "We are proud to have helped many clients build their dream spaces. Here’s what they say about working with us.",
+                    "original": "We are proud to have helped many clients build their dream spaces. Here’s what they say about working with us."
+                },
+                {
+                    "key": "about.text.46",
+                    "tag": "p",
+                    "value": "Contact us today for a free consultation and let’s create something extraordinary together.",
+                    "original": "Contact us today for a free consultation and let’s create something extraordinary together."
+                },
+                {
+                    "key": "header.0",
+                    "tag": "a",
+                    "value": "Skip to content",
+                    "original": "Skip to content"
+                },
+                {
+                    "key": "header.1",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.2",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.3",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.4",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.5",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.6",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "header.7",
+                    "tag": "span",
+                    "value": "Call Us:",
+                    "original": "Call Us:"
+                },
+                {
+                    "key": "header.8",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "header.9",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.10",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.11",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.12",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.13",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.14",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.1",
+                    "tag": "p",
+                    "value": "We are creators of transformative spaces that inspire, innovate, and endure.",
+                    "original": "We are creators of transformative spaces that inspire, innovate, and endure."
+                },
+                {
+                    "key": "footer.2",
+                    "tag": "a",
+                    "value": "About Us",
+                    "original": "About Us"
+                },
+                {
+                    "key": "footer.3",
+                    "tag": "a",
+                    "value": "Why Choose Us",
+                    "original": "Why Choose Us"
+                },
+                {
+                    "key": "footer.4",
+                    "tag": "a",
+                    "value": "Our Team",
+                    "original": "Our Team"
+                },
+                {
+                    "key": "footer.5",
+                    "tag": "a",
+                    "value": "Solutions",
+                    "original": "Solutions"
+                },
+                {
+                    "key": "footer.6",
+                    "tag": "a",
+                    "value": "Partners",
+                    "original": "Partners"
+                },
+                {
+                    "key": "footer.7",
+                    "tag": "a",
+                    "value": "Core Values",
+                    "original": "Core Values"
+                },
+                {
+                    "key": "footer.8",
+                    "tag": "a",
+                    "value": "Our Projects",
+                    "original": "Our Projects"
+                },
+                {
+                    "key": "footer.9",
+                    "tag": "a",
+                    "value": "News & Updates",
+                    "original": "News & Updates"
+                },
+                {
+                    "key": "footer.10",
+                    "tag": "a",
+                    "value": "Terms & Conditions",
+                    "original": "Terms & Conditions"
+                },
+                {
+                    "key": "footer.11",
+                    "tag": "a",
+                    "value": "Support Center",
+                    "original": "Support Center"
+                },
+                {
+                    "key": "footer.12",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.13",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "footer.14",
+                    "tag": "a",
+                    "value": "info@salmaproperties.com.bd",
+                    "original": "info@salmaproperties.com.bd"
+                },
+                {
+                    "key": "footer.15",
+                    "tag": "span",
+                    "value": "Facebook",
+                    "original": "Facebook"
+                },
+                {
+                    "key": "footer.16",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.17",
+                    "tag": "span",
+                    "value": "Instagram",
+                    "original": "Instagram"
+                },
+                {
+                    "key": "footer.18",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.19",
+                    "tag": "span",
+                    "value": "Youtube",
+                    "original": "Youtube"
+                },
+                {
+                    "key": "footer.20",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.21",
+                    "tag": "span",
+                    "value": "Twitter",
+                    "original": "Twitter"
+                },
+                {
+                    "key": "footer.22",
+                    "tag": "span",
+                    "value": "© 2026 Salam Properties. All Rights Reserved.",
+                    "original": "© 2026 Salam Properties. All Rights Reserved."
+                },
+                {
+                    "key": "footer.23",
+                    "tag": "span",
+                    "value": "Template Designed by CognovaIT",
+                    "original": "Template Designed by CognovaIT"
+                },
+                {
+                    "key": "footer.24",
+                    "tag": "a",
+                    "value": "Privacy Policy",
+                    "original": "Privacy Policy"
+                },
+                {
+                    "key": "footer.25",
+                    "tag": "span",
+                    "value": "|",
+                    "original": "|"
+                },
+                {
+                    "key": "footer.26",
+                    "tag": "a",
+                    "value": "Terms of Service",
+                    "original": "Terms of Service"
+                }
+            ],
+            "images": [
+                {
+                    "key": "about.image.1",
+                    "src": "assets/images/h1_img-1.jpg",
+                    "alt": "Modern architectural interior",
+                    "original_src": "assets/images/h1_img-1.jpg",
+                    "original_alt": "Modern architectural interior"
+                },
+                {
+                    "key": "about.image.2",
+                    "src": "assets/images/project_2.jpg",
+                    "alt": "Modern family house",
+                    "original_src": "assets/images/project_2.jpg",
+                    "original_alt": "Modern family house"
+                },
+                {
+                    "key": "about.image.3",
+                    "src": "assets/images/project_5.jpg",
+                    "alt": "Modern office space",
+                    "original_src": "assets/images/project_5.jpg",
+                    "original_alt": "Modern office space"
+                },
+                {
+                    "key": "about.image.4",
+                    "src": "assets/images/project_6.jpg",
+                    "alt": "Luxury apartment",
+                    "original_src": "assets/images/project_6.jpg",
+                    "original_alt": "Luxury apartment"
+                },
+                {
+                    "key": "about.image.5",
+                    "src": "assets/images/avatar-1.jpg",
+                    "alt": "Client",
+                    "original_src": "assets/images/avatar-1.jpg",
+                    "original_alt": "Client"
+                },
+                {
+                    "key": "header.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                },
+                {
+                    "key": "footer.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                }
+            ]
+        },
+        "index": {
+            "text": [
+                {
+                    "key": "index.text.0",
+                    "tag": "a",
+                    "value": "",
+                    "original": "Skip to content"
+                },
+                {
+                    "key": "index.text.1",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "index.text.2",
+                    "tag": "a",
+                    "value": "Pages",
+                    "original": "Pages"
+                },
+                {
+                    "key": "index.text.3",
+                    "tag": "a",
+                    "value": "About us",
+                    "original": "About us"
+                },
+                {
+                    "key": "index.text.4",
+                    "tag": "a",
+                    "value": "Our leadership",
+                    "original": "Our leadership"
+                },
+                {
+                    "key": "index.text.5",
+                    "tag": "a",
+                    "value": "Why choose us",
+                    "original": "Why choose us"
+                },
+                {
+                    "key": "index.text.6",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "index.text.7",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "index.text.8",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "index.text.9",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "index.text.10",
+                    "tag": "a",
+                    "value": "Call us: +(084) 123 - 456 88",
+                    "original": "Call us: +(084) 123 - 456 88"
+                },
+                {
+                    "key": "index.text.11",
+                    "tag": "h4",
+                    "value": "We developed landmark real estate projects that deliver lasting value to investors and communities.",
+                    "original": "We developed landmark real estate projects that deliver lasting value to investors and communities."
+                },
+                {
+                    "key": "index.text.12",
+                    "tag": "h5",
+                    "value": "High-quality products",
+                    "original": "High-quality products"
+                },
+                {
+                    "key": "index.text.13",
+                    "tag": "p",
+                    "value": "Our developments combine quality, thoughtful design and an enduring sense of place.",
+                    "original": "Our developments combine quality, thoughtful design and an enduring sense of place."
+                },
+                {
+                    "key": "index.text.14",
+                    "tag": "h5",
+                    "value": "Professional services",
+                    "original": "Professional services"
+                },
+                {
+                    "key": "index.text.15",
+                    "tag": "p",
+                    "value": "We bring a wealth of expertise and a personal approach to every investment and development.",
+                    "original": "We bring a wealth of expertise and a personal approach to every investment and development."
+                },
+                {
+                    "key": "index.text.16",
+                    "tag": "h5",
+                    "value": "Real experiences",
+                    "original": "Real experiences"
+                },
+                {
+                    "key": "index.text.17",
+                    "tag": "p",
+                    "value": "We build meaningful partnerships and create spaces where communities can thrive.",
+                    "original": "We build meaningful partnerships and create spaces where communities can thrive."
+                },
+                {
+                    "key": "index.text.18",
+                    "tag": "span",
+                    "value": "WHO WE ARE",
+                    "original": "WHO WE ARE"
+                },
+                {
+                    "key": "index.text.19",
+                    "tag": "span",
+                    "value": "WHO WE ARE",
+                    "original": "WHO WE ARE"
+                },
+                {
+                    "key": "index.text.20",
+                    "tag": "span",
+                    "value": "WHO WE ARE",
+                    "original": "WHO WE ARE"
+                },
+                {
+                    "key": "index.text.21",
+                    "tag": "span",
+                    "value": "WHO WE ARE",
+                    "original": "WHO WE ARE"
+                },
+                {
+                    "key": "index.text.22",
+                    "tag": "h2",
+                    "value": "The largest privately held real estate investors and managers in the world",
+                    "original": "The largest privately held real estate investors and managers in the world"
+                },
+                {
+                    "key": "index.text.23",
+                    "tag": "p",
+                    "value": "To create outstanding places that enrich people’s lives and deliver long-term value for our communities.",
+                    "original": "To create outstanding places that enrich people’s lives and deliver long-term value for our communities."
+                },
+                {
+                    "key": "index.text.24",
+                    "tag": "p",
+                    "value": "To bring together investment expertise, exceptional design and responsible development in everything we do.",
+                    "original": "To bring together investment expertise, exceptional design and responsible development in everything we do."
+                },
+                {
+                    "key": "index.text.25",
+                    "tag": "span",
+                    "value": "Real estate projects",
+                    "original": "Real estate projects"
+                },
+                {
+                    "key": "index.text.26",
+                    "tag": "span",
+                    "value": "Our people",
+                    "original": "Our people"
+                },
+                {
+                    "key": "index.text.27",
+                    "tag": "span",
+                    "value": "Experience",
+                    "original": "Experience"
+                },
+                {
+                    "key": "index.text.28",
+                    "tag": "span",
+                    "value": "WHAT WE OFFER",
+                    "original": "WHAT WE OFFER"
+                },
+                {
+                    "key": "index.text.29",
+                    "tag": "span",
+                    "value": "WHAT WE OFFER",
+                    "original": "WHAT WE OFFER"
+                },
+                {
+                    "key": "index.text.30",
+                    "tag": "span",
+                    "value": "WHAT WE OFFER",
+                    "original": "WHAT WE OFFER"
+                },
+                {
+                    "key": "index.text.31",
+                    "tag": "span",
+                    "value": "WHAT WE OFFER",
+                    "original": "WHAT WE OFFER"
+                },
+                {
+                    "key": "index.text.32",
+                    "tag": "span",
+                    "value": "01",
+                    "original": "01"
+                },
+                {
+                    "key": "index.text.33",
+                    "tag": "h4",
+                    "value": "Apartment Building",
+                    "original": "Apartment Building"
+                },
+                {
+                    "key": "index.text.34",
+                    "tag": "span",
+                    "value": "02",
+                    "original": "02"
+                },
+                {
+                    "key": "index.text.35",
+                    "tag": "h4",
+                    "value": "Eden Estate",
+                    "original": "Eden Estate"
+                },
+                {
+                    "key": "index.text.36",
+                    "tag": "span",
+                    "value": "03",
+                    "original": "03"
+                },
+                {
+                    "key": "index.text.37",
+                    "tag": "h4",
+                    "value": "Vida at Council Square",
+                    "original": "Vida at Council Square"
+                },
+                {
+                    "key": "index.text.38",
+                    "tag": "span",
+                    "value": "04",
+                    "original": "04"
+                },
+                {
+                    "key": "index.text.39",
+                    "tag": "h4",
+                    "value": "Office Building",
+                    "original": "Office Building"
+                },
+                {
+                    "key": "index.text.40",
+                    "tag": "span",
+                    "value": "★★★★★",
+                    "original": "★★★★★"
+                },
+                {
+                    "key": "index.text.41",
+                    "tag": "span",
+                    "value": "OUR COMMITMENT",
+                    "original": "OUR COMMITMENT"
+                },
+                {
+                    "key": "index.text.42",
+                    "tag": "span",
+                    "value": "OUR COMMITMENT",
+                    "original": "OUR COMMITMENT"
+                },
+                {
+                    "key": "index.text.43",
+                    "tag": "span",
+                    "value": "OUR COMMITMENT",
+                    "original": "OUR COMMITMENT"
+                },
+                {
+                    "key": "index.text.44",
+                    "tag": "span",
+                    "value": "OUR COMMITMENT",
+                    "original": "OUR COMMITMENT"
+                },
+                {
+                    "key": "index.text.45",
+                    "tag": "p",
+                    "value": "It’s not just about creating something good; it’s about designing, innovating, and collaborating to forge remarkable and unparalleled experiences.",
+                    "original": "It’s not just about creating something good; it’s about designing, innovating, and collaborating to forge remarkable and unparalleled experiences."
+                },
+                {
+                    "key": "index.text.46",
+                    "tag": "p",
+                    "value": "We act with integrity and make a positive contribution to the communities where we work.",
+                    "original": "We act with integrity and make a positive contribution to the communities where we work."
+                },
+                {
+                    "key": "index.text.47",
+                    "tag": "p",
+                    "value": "Our people share their knowledge and ideas to create better outcomes together.",
+                    "original": "Our people share their knowledge and ideas to create better outcomes together."
+                },
+                {
+                    "key": "index.text.48",
+                    "tag": "p",
+                    "value": "We value different perspectives and create an environment where everyone belongs.",
+                    "original": "We value different perspectives and create an environment where everyone belongs."
+                },
+                {
+                    "key": "index.text.49",
+                    "tag": "h2",
+                    "value": "Our trusted partners and collaborators",
+                    "original": "Our trusted partners and collaborators"
+                },
+                {
+                    "key": "index.text.50",
+                    "tag": "span",
+                    "value": "OUR TEAM",
+                    "original": "OUR TEAM"
+                },
+                {
+                    "key": "index.text.51",
+                    "tag": "span",
+                    "value": "OUR TEAM",
+                    "original": "OUR TEAM"
+                },
+                {
+                    "key": "index.text.52",
+                    "tag": "span",
+                    "value": "OUR TEAM",
+                    "original": "OUR TEAM"
+                },
+                {
+                    "key": "index.text.53",
+                    "tag": "span",
+                    "value": "OUR TEAM",
+                    "original": "OUR TEAM"
+                },
+                {
+                    "key": "index.text.54",
+                    "tag": "h5",
+                    "value": "Dennis Daniels",
+                    "original": "Dennis Daniels"
+                },
+                {
+                    "key": "index.text.55",
+                    "tag": "h5",
+                    "value": "Johan Sanford",
+                    "original": "Johan Sanford"
+                },
+                {
+                    "key": "index.text.56",
+                    "tag": "h5",
+                    "value": "Floyd Miles",
+                    "original": "Floyd Miles"
+                },
+                {
+                    "key": "index.text.57",
+                    "tag": "span",
+                    "value": "QUICK ENQUIRY",
+                    "original": "QUICK ENQUIRY"
+                },
+                {
+                    "key": "index.text.58",
+                    "tag": "span",
+                    "value": "QUICK ENQUIRY",
+                    "original": "QUICK ENQUIRY"
+                },
+                {
+                    "key": "index.text.59",
+                    "tag": "span",
+                    "value": "QUICK ENQUIRY",
+                    "original": "QUICK ENQUIRY"
+                },
+                {
+                    "key": "index.text.60",
+                    "tag": "span",
+                    "value": "QUICK ENQUIRY",
+                    "original": "QUICK ENQUIRY"
+                },
+                {
+                    "key": "index.text.61",
+                    "tag": "label",
+                    "value": "Your name",
+                    "original": "Your name"
+                },
+                {
+                    "key": "index.text.62",
+                    "tag": "label",
+                    "value": "Email",
+                    "original": "Email"
+                },
+                {
+                    "key": "index.text.63",
+                    "tag": "label",
+                    "value": "Phone number",
+                    "original": "Phone number"
+                },
+                {
+                    "key": "index.text.64",
+                    "tag": "label",
+                    "value": "Your interest",
+                    "original": "Your interest"
+                },
+                {
+                    "key": "index.text.65",
+                    "tag": "label",
+                    "value": "We're excited to connect with you! Required fields are marked *",
+                    "original": "We're excited to connect with you! Required fields are marked *"
+                },
+                {
+                    "key": "index.text.66",
+                    "tag": "span",
+                    "value": "Articles & insights",
+                    "original": "Articles & insights"
+                },
+                {
+                    "key": "index.text.67",
+                    "tag": "span",
+                    "value": "Articles & insights",
+                    "original": "Articles & insights"
+                },
+                {
+                    "key": "index.text.68",
+                    "tag": "span",
+                    "value": "Articles & insights",
+                    "original": "Articles & insights"
+                },
+                {
+                    "key": "index.text.69",
+                    "tag": "span",
+                    "value": "Articles & insights",
+                    "original": "Articles & insights"
+                },
+                {
+                    "key": "index.text.70",
+                    "tag": "span",
+                    "value": "Insights",
+                    "original": "Insights"
+                },
+                {
+                    "key": "index.text.71",
+                    "tag": "a",
+                    "value": "Innovative Materials with a Touch of Luxury",
+                    "original": "Innovative Materials with a Touch of Luxury"
+                },
+                {
+                    "key": "index.text.72",
+                    "tag": "span",
+                    "value": "Construction",
+                    "original": "Construction"
+                },
+                {
+                    "key": "index.text.73",
+                    "tag": "a",
+                    "value": "All the Best Ideas in Construction",
+                    "original": "All the Best Ideas in Construction"
+                },
+                {
+                    "key": "index.text.74",
+                    "tag": "span",
+                    "value": "Real estate",
+                    "original": "Real estate"
+                },
+                {
+                    "key": "index.text.75",
+                    "tag": "a",
+                    "value": "Find Your Dream Home Today",
+                    "original": "Find Your Dream Home Today"
+                },
+                {
+                    "key": "index.text.76",
+                    "tag": "p",
+                    "value": "We create places that connect people and inspire future generations.",
+                    "original": "We create places that connect people and inspire future generations."
+                },
+                {
+                    "key": "index.text.77",
+                    "tag": "h6",
+                    "value": "Company",
+                    "original": "Company"
+                },
+                {
+                    "key": "index.text.78",
+                    "tag": "a",
+                    "value": "Who we are",
+                    "original": "Who we are"
+                },
+                {
+                    "key": "index.text.79",
+                    "tag": "a",
+                    "value": "Our values",
+                    "original": "Our values"
+                },
+                {
+                    "key": "index.text.80",
+                    "tag": "a",
+                    "value": "Our team",
+                    "original": "Our team"
+                },
+                {
+                    "key": "index.text.81",
+                    "tag": "a",
+                    "value": "Careers",
+                    "original": "Careers"
+                },
+                {
+                    "key": "index.text.82",
+                    "tag": "a",
+                    "value": "Get in touch",
+                    "original": "Get in touch"
+                },
+                {
+                    "key": "index.text.83",
+                    "tag": "h6",
+                    "value": "Our expertise",
+                    "original": "Our expertise"
+                },
+                {
+                    "key": "index.text.84",
+                    "tag": "a",
+                    "value": "Real estate",
+                    "original": "Real estate"
+                },
+                {
+                    "key": "index.text.85",
+                    "tag": "a",
+                    "value": "Construction",
+                    "original": "Construction"
+                },
+                {
+                    "key": "index.text.86",
+                    "tag": "a",
+                    "value": "Our projects",
+                    "original": "Our projects"
+                },
+                {
+                    "key": "index.text.87",
+                    "tag": "a",
+                    "value": "Insights",
+                    "original": "Insights"
+                },
+                {
+                    "key": "index.text.88",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "index.text.89",
+                    "tag": "a",
+                    "value": "info@salmaproperties.com.bd",
+                    "original": "info@salmaproperties.com.bd"
+                },
+                {
+                    "key": "index.text.90",
+                    "tag": "span",
+                    "value": "© 2026 Salam Properties. All Rights Reserved.",
+                    "original": "© 2026 Salam Properties. All Rights Reserved."
+                },
+                {
+                    "key": "index.text.91",
+                    "tag": "a",
+                    "value": "Privacy policy",
+                    "original": "Privacy policy"
+                },
+                {
+                    "key": "index.text.92",
+                    "tag": "a",
+                    "value": "Terms of use",
+                    "original": "Terms of use"
+                }
+            ],
+            "images": [
+                {
+                    "key": "index.image.0",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz",
+                    "original_src": "assets/images/Logo_Four.png",
+                    "original_alt": "Spaciaz"
+                },
+                {
+                    "key": "index.image.1",
+                    "src": "uploads/index-ecddf40864-Image.jpg",
+                    "alt": "Contemporary residential building on a city street",
+                    "original_src": "assets/images/h1_img-1.jpg",
+                    "original_alt": "Contemporary residential building on a city street"
+                },
+                {
+                    "key": "index.image.2",
+                    "src": "assets/images/h1_img-2.jpg",
+                    "alt": "Architect crafting a building model",
+                    "original_src": "assets/images/h1_img-2.jpg",
+                    "original_alt": "Architect crafting a building model"
+                },
+                {
+                    "key": "index.image.3",
+                    "src": "assets/images/h1_service-1.png",
+                    "alt": "Real Estate",
+                    "original_src": "assets/images/h1_service-1.png",
+                    "original_alt": "Real Estate"
+                },
+                {
+                    "key": "index.image.4",
+                    "src": "assets/images/h1_service-2.png",
+                    "alt": "Project Management",
+                    "original_src": "assets/images/h1_service-2.png",
+                    "original_alt": "Project Management"
+                },
+                {
+                    "key": "index.image.5",
+                    "src": "assets/images/h1_service-3.png",
+                    "alt": "Project Management",
+                    "original_src": "assets/images/h1_service-3.png",
+                    "original_alt": "Project Management"
+                },
+                {
+                    "key": "index.image.6",
+                    "src": "assets/images/h1_service-1.png",
+                    "alt": "Real Estate",
+                    "original_src": "assets/images/h1_service-1.png",
+                    "original_alt": "Real Estate"
+                },
+                {
+                    "key": "index.image.7",
+                    "src": "assets/images/h1_service-2.png",
+                    "alt": "Project Management",
+                    "original_src": "assets/images/h1_service-2.png",
+                    "original_alt": "Project Management"
+                },
+                {
+                    "key": "index.image.8",
+                    "src": "assets/images/project_9.jpg",
+                    "alt": "Apartment Building",
+                    "original_src": "assets/images/project_9.jpg",
+                    "original_alt": "Apartment Building"
+                },
+                {
+                    "key": "index.image.9",
+                    "src": "assets/images/project_6.jpg",
+                    "alt": "Eden Estate",
+                    "original_src": "assets/images/project_6.jpg",
+                    "original_alt": "Eden Estate"
+                },
+                {
+                    "key": "index.image.10",
+                    "src": "assets/images/project_2.jpg",
+                    "alt": "Vida at Council Square",
+                    "original_src": "assets/images/project_2.jpg",
+                    "original_alt": "Vida at Council Square"
+                },
+                {
+                    "key": "index.image.11",
+                    "src": "assets/images/project_5.jpg",
+                    "alt": "Office Building",
+                    "original_src": "assets/images/project_5.jpg",
+                    "original_alt": "Office Building"
+                },
+                {
+                    "key": "index.image.12",
+                    "src": "assets/images/h1_img-3.jpg",
+                    "alt": "Design team reviewing plans together",
+                    "original_src": "assets/images/h1_img-3.jpg",
+                    "original_alt": "Design team reviewing plans together"
+                },
+                {
+                    "key": "index.image.13",
+                    "src": "assets/images/avatar-1.jpg",
+                    "alt": "",
+                    "original_src": "assets/images/avatar-1.jpg",
+                    "original_alt": ""
+                },
+                {
+                    "key": "index.image.14",
+                    "src": "assets/images/avatar-2.jpg",
+                    "alt": "",
+                    "original_src": "assets/images/avatar-2.jpg",
+                    "original_alt": ""
+                },
+                {
+                    "key": "index.image.15",
+                    "src": "assets/images/avatar-3.jpg",
+                    "alt": "",
+                    "original_src": "assets/images/avatar-3.jpg",
+                    "original_alt": ""
+                },
+                {
+                    "key": "index.image.16",
+                    "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=500&q=80",
+                    "alt": "Building",
+                    "original_src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=500&q=80",
+                    "original_alt": "Building"
+                },
+                {
+                    "key": "index.image.17",
+                    "src": "assets/images/partner-1.svg",
+                    "alt": "Partner 1",
+                    "original_src": "assets/images/partner-1.svg",
+                    "original_alt": "Partner 1"
+                },
+                {
+                    "key": "index.image.18",
+                    "src": "assets/images/partner-2.svg",
+                    "alt": "Partner 2",
+                    "original_src": "assets/images/partner-2.svg",
+                    "original_alt": "Partner 2"
+                },
+                {
+                    "key": "index.image.19",
+                    "src": "assets/images/partner-3.svg",
+                    "alt": "Partner 3",
+                    "original_src": "assets/images/partner-3.svg",
+                    "original_alt": "Partner 3"
+                },
+                {
+                    "key": "index.image.20",
+                    "src": "assets/images/partner-4.svg",
+                    "alt": "Partner 4",
+                    "original_src": "assets/images/partner-4.svg",
+                    "original_alt": "Partner 4"
+                },
+                {
+                    "key": "index.image.21",
+                    "src": "assets/images/partner-5.svg",
+                    "alt": "Partner 5",
+                    "original_src": "assets/images/partner-5.svg",
+                    "original_alt": "Partner 5"
+                },
+                {
+                    "key": "index.image.22",
+                    "src": "assets/images/partner-6.svg",
+                    "alt": "Partner 6",
+                    "original_src": "assets/images/partner-6.svg",
+                    "original_alt": "Partner 6"
+                },
+                {
+                    "key": "index.image.23",
+                    "src": "assets/images/partner-1.svg",
+                    "alt": "Partner 1",
+                    "original_src": "assets/images/partner-1.svg",
+                    "original_alt": "Partner 1"
+                },
+                {
+                    "key": "index.image.24",
+                    "src": "assets/images/partner-2.svg",
+                    "alt": "Partner 2",
+                    "original_src": "assets/images/partner-2.svg",
+                    "original_alt": "Partner 2"
+                },
+                {
+                    "key": "index.image.25",
+                    "src": "assets/images/partner-3.svg",
+                    "alt": "Partner 3",
+                    "original_src": "assets/images/partner-3.svg",
+                    "original_alt": "Partner 3"
+                },
+                {
+                    "key": "index.image.26",
+                    "src": "assets/images/partner-4.svg",
+                    "alt": "Partner 4",
+                    "original_src": "assets/images/partner-4.svg",
+                    "original_alt": "Partner 4"
+                },
+                {
+                    "key": "index.image.27",
+                    "src": "assets/images/partner-5.svg",
+                    "alt": "Partner 5",
+                    "original_src": "assets/images/partner-5.svg",
+                    "original_alt": "Partner 5"
+                },
+                {
+                    "key": "index.image.28",
+                    "src": "assets/images/partner-6.svg",
+                    "alt": "Partner 6",
+                    "original_src": "assets/images/partner-6.svg",
+                    "original_alt": "Partner 6"
+                },
+                {
+                    "key": "index.image.29",
+                    "src": "assets/images/team-1.jpg",
+                    "alt": "Dennis Daniels",
+                    "original_src": "assets/images/team-1.jpg",
+                    "original_alt": "Dennis Daniels"
+                },
+                {
+                    "key": "index.image.30",
+                    "src": "assets/images/team-2.jpg",
+                    "alt": "Johan Sanford",
+                    "original_src": "assets/images/team-2.jpg",
+                    "original_alt": "Johan Sanford"
+                },
+                {
+                    "key": "index.image.31",
+                    "src": "assets/images/team-3.jpg",
+                    "alt": "Floyd Miles",
+                    "original_src": "assets/images/team-3.jpg",
+                    "original_alt": "Floyd Miles"
+                },
+                {
+                    "key": "index.image.32",
+                    "src": "assets/images/blog_13.jpg",
+                    "alt": "Innovative Materials with a Touch of Luxury",
+                    "original_src": "assets/images/blog_13.jpg",
+                    "original_alt": "Innovative Materials with a Touch of Luxury"
+                },
+                {
+                    "key": "index.image.33",
+                    "src": "assets/images/blog_1.jpg",
+                    "alt": "All the Best Ideas in Construction",
+                    "original_src": "assets/images/blog_1.jpg",
+                    "original_alt": "All the Best Ideas in Construction"
+                },
+                {
+                    "key": "index.image.34",
+                    "src": "assets/images/blog_3.jpg",
+                    "alt": "Find Your Dream Home Today",
+                    "original_src": "assets/images/blog_3.jpg",
+                    "original_alt": "Find Your Dream Home Today"
+                },
+                {
+                    "key": "index.image.35",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz",
+                    "original_src": "assets/images/Logo_Four.png",
+                    "original_alt": "Spaciaz"
+                },
+                {
+                    "key": "index.image.36",
+                    "src": "assets/images/project_9.jpg",
+                    "alt": "",
+                    "original_src": "assets/images/project_9.jpg",
+                    "original_alt": ""
+                }
+            ]
+        },
+        "contact": {
+            "text": [
+                {
+                    "key": "contact.text.8",
+                    "tag": "h1",
+                    "value": "Get in touch",
+                    "original": "Get in touch"
+                },
+                {
+                    "key": "contact.text.9",
+                    "tag": "h3",
+                    "value": "Support email",
+                    "original": "Support email"
+                },
+                {
+                    "key": "contact.text.10",
+                    "tag": "p",
+                    "value": "info@salmaproperties.com.bd",
+                    "original": "info@salmaproperties.com.bd"
+                },
+                {
+                    "key": "contact.text.11",
+                    "tag": "button",
+                    "value": "Email Us",
+                    "original": "Email Us"
+                },
+                {
+                    "key": "contact.text.12",
+                    "tag": "h3",
+                    "value": "Phone number",
+                    "original": "Phone number"
+                },
+                {
+                    "key": "contact.text.13",
+                    "tag": "p",
+                    "value": "+0(84) 123 - 456 88",
+                    "original": "+0(84) 123 - 456 88"
+                },
+                {
+                    "key": "contact.text.14",
+                    "tag": "button",
+                    "value": "Call Us",
+                    "original": "Call Us"
+                },
+                {
+                    "key": "contact.text.15",
+                    "tag": "h3",
+                    "value": "Location",
+                    "original": "Location"
+                },
+                {
+                    "key": "contact.text.16",
+                    "tag": "p",
+                    "value": "401 Broadway, 24th Floor, Orchard View, London",
+                    "original": "401 Broadway, 24th Floor, Orchard View, London"
+                },
+                {
+                    "key": "contact.text.17",
+                    "tag": "button",
+                    "value": "Visit Us",
+                    "original": "Visit Us"
+                },
+                {
+                    "key": "contact.text.18",
+                    "tag": "h2",
+                    "value": "Leave a message",
+                    "original": "Leave a message"
+                },
+                {
+                    "key": "contact.text.19",
+                    "tag": "h2",
+                    "value": "Your dream home awaits",
+                    "original": "Your dream home awaits"
+                },
+                {
+                    "key": "contact.text.20",
+                    "tag": "p",
+                    "value": "Whether you're exploring our homes or envisioning something custom, we're here to bring your dream to life.",
+                    "original": "Whether you're exploring our homes or envisioning something custom, we're here to bring your dream to life."
+                },
+                {
+                    "key": "contact.text.21",
+                    "tag": "button",
+                    "value": "Get Your Free Quote",
+                    "original": "Get Your Free Quote"
+                },
+                {
+                    "key": "header.0",
+                    "tag": "a",
+                    "value": "Skip to content",
+                    "original": "Skip to content"
+                },
+                {
+                    "key": "header.1",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.2",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.3",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.4",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.5",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.6",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "header.7",
+                    "tag": "span",
+                    "value": "Call Us:",
+                    "original": "Call Us:"
+                },
+                {
+                    "key": "header.8",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "header.9",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.10",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.11",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.12",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.13",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.14",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.1",
+                    "tag": "p",
+                    "value": "We are creators of transformative spaces that inspire, innovate, and endure.",
+                    "original": "We are creators of transformative spaces that inspire, innovate, and endure."
+                },
+                {
+                    "key": "footer.2",
+                    "tag": "a",
+                    "value": "About Us",
+                    "original": "About Us"
+                },
+                {
+                    "key": "footer.3",
+                    "tag": "a",
+                    "value": "Why Choose Us",
+                    "original": "Why Choose Us"
+                },
+                {
+                    "key": "footer.4",
+                    "tag": "a",
+                    "value": "Our Team",
+                    "original": "Our Team"
+                },
+                {
+                    "key": "footer.5",
+                    "tag": "a",
+                    "value": "Solutions",
+                    "original": "Solutions"
+                },
+                {
+                    "key": "footer.6",
+                    "tag": "a",
+                    "value": "Partners",
+                    "original": "Partners"
+                },
+                {
+                    "key": "footer.7",
+                    "tag": "a",
+                    "value": "Core Values",
+                    "original": "Core Values"
+                },
+                {
+                    "key": "footer.8",
+                    "tag": "a",
+                    "value": "Our Projects",
+                    "original": "Our Projects"
+                },
+                {
+                    "key": "footer.9",
+                    "tag": "a",
+                    "value": "News & Updates",
+                    "original": "News & Updates"
+                },
+                {
+                    "key": "footer.10",
+                    "tag": "a",
+                    "value": "Terms & Conditions",
+                    "original": "Terms & Conditions"
+                },
+                {
+                    "key": "footer.11",
+                    "tag": "a",
+                    "value": "Support Center",
+                    "original": "Support Center"
+                },
+                {
+                    "key": "footer.12",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.13",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "footer.14",
+                    "tag": "a",
+                    "value": "info@salmaproperties.com.bd",
+                    "original": "info@salmaproperties.com.bd"
+                },
+                {
+                    "key": "footer.15",
+                    "tag": "span",
+                    "value": "Facebook",
+                    "original": "Facebook"
+                },
+                {
+                    "key": "footer.16",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.17",
+                    "tag": "span",
+                    "value": "Instagram",
+                    "original": "Instagram"
+                },
+                {
+                    "key": "footer.18",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.19",
+                    "tag": "span",
+                    "value": "Youtube",
+                    "original": "Youtube"
+                },
+                {
+                    "key": "footer.20",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.21",
+                    "tag": "span",
+                    "value": "Twitter",
+                    "original": "Twitter"
+                },
+                {
+                    "key": "footer.22",
+                    "tag": "span",
+                    "value": "© 2026 Salam Properties. All Rights Reserved.",
+                    "original": "© 2026 Salam Properties. All Rights Reserved."
+                },
+                {
+                    "key": "footer.23",
+                    "tag": "span",
+                    "value": "Template Designed by CognovaIT",
+                    "original": "Template Designed by CognovaIT"
+                },
+                {
+                    "key": "footer.24",
+                    "tag": "a",
+                    "value": "Privacy Policy",
+                    "original": "Privacy Policy"
+                },
+                {
+                    "key": "footer.25",
+                    "tag": "span",
+                    "value": "|",
+                    "original": "|"
+                },
+                {
+                    "key": "footer.26",
+                    "tag": "a",
+                    "value": "Terms of Service",
+                    "original": "Terms of Service"
+                }
+            ],
+            "images": [
+                {
+                    "key": "contact.image.0",
+                    "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=300&q=80",
+                    "alt": "building",
+                    "original_src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=300&q=80",
+                    "original_alt": "building"
+                },
+                {
+                    "key": "contact.image.1",
+                    "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=300&q=80",
+                    "alt": "building",
+                    "original_src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=300&q=80",
+                    "original_alt": "building"
+                },
+                {
+                    "key": "header.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                },
+                {
+                    "key": "footer.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                }
+            ]
+        },
+        "news": {
+            "text": [
+                {
+                    "key": "news.text.8",
+                    "tag": "h1",
+                    "value": "Our Blog",
+                    "original": "Our Blog"
+                },
+                {
+                    "key": "news.text.9",
+                    "tag": "span",
+                    "value": "BUSINESS",
+                    "original": "BUSINESS"
+                },
+                {
+                    "key": "news.text.10",
+                    "tag": "h2",
+                    "value": "An Innovative Approach To Building Modern Future",
+                    "original": "An Innovative Approach To Building Modern Future"
+                },
+                {
+                    "key": "news.text.11",
+                    "tag": "p",
+                    "value": "Exploring sustainable architectural frameworks, high-efficiency materials, and futuristic urban planning techniques shaping the modern world.",
+                    "original": "Exploring sustainable architectural frameworks, high-efficiency materials, and futuristic urban planning techniques shaping the modern world."
+                },
+                {
+                    "key": "news.text.12",
+                    "tag": "span",
+                    "value": "DESIGN",
+                    "original": "DESIGN"
+                },
+                {
+                    "key": "news.text.13",
+                    "tag": "h2",
+                    "value": "Designing For a Greener & Smarter Structure",
+                    "original": "Designing For a Greener & Smarter Structure"
+                },
+                {
+                    "key": "news.text.14",
+                    "tag": "p",
+                    "value": "Integrations of renewable energy technologies, smart automation systems, and green rooftops for residential and commercial hubs.",
+                    "original": "Integrations of renewable energy technologies, smart automation systems, and green rooftops for residential and commercial hubs."
+                },
+                {
+                    "key": "news.text.15",
+                    "tag": "span",
+                    "value": "INTERIOR",
+                    "original": "INTERIOR"
+                },
+                {
+                    "key": "news.text.16",
+                    "tag": "h2",
+                    "value": "Architectural Wonders In The Heart Of The City",
+                    "original": "Architectural Wonders In The Heart Of The City"
+                },
+                {
+                    "key": "news.text.17",
+                    "tag": "p",
+                    "value": "A dive into minimalist interior design trends blending open space concepts with ergonomic functionality and warm natural textures.",
+                    "original": "A dive into minimalist interior design trends blending open space concepts with ergonomic functionality and warm natural textures."
+                },
+                {
+                    "key": "news.text.18",
+                    "tag": "span",
+                    "value": "ARCHITECTURE",
+                    "original": "ARCHITECTURE"
+                },
+                {
+                    "key": "news.text.19",
+                    "tag": "h2",
+                    "value": "Biophilic Design: Bringing Nature In doors",
+                    "original": "Biophilic Design: Bringing Nature In doors"
+                },
+                {
+                    "key": "news.text.20",
+                    "tag": "p",
+                    "value": "Connecting built environments closer to natural elements to improve occupant well-being and environmental efficiency.",
+                    "original": "Connecting built environments closer to natural elements to improve occupant well-being and environmental efficiency."
+                },
+                {
+                    "key": "news.text.21",
+                    "tag": "span",
+                    "value": "REAL ESTATE",
+                    "original": "REAL ESTATE"
+                },
+                {
+                    "key": "news.text.22",
+                    "tag": "h2",
+                    "value": "Urban Renewal & Redevelopment",
+                    "original": "Urban Renewal & Redevelopment"
+                },
+                {
+                    "key": "news.text.23",
+                    "tag": "p",
+                    "value": "Transforming neglected urban sectors into vibrant, high-density residential and business neighborhoods.",
+                    "original": "Transforming neglected urban sectors into vibrant, high-density residential and business neighborhoods."
+                },
+                {
+                    "key": "news.text.24",
+                    "tag": "span",
+                    "value": "TECHNOLOGY",
+                    "original": "TECHNOLOGY"
+                },
+                {
+                    "key": "news.text.25",
+                    "tag": "h2",
+                    "value": "3D Printed Structures & Modern Construction",
+                    "original": "3D Printed Structures & Modern Construction"
+                },
+                {
+                    "key": "news.text.26",
+                    "tag": "p",
+                    "value": "Examining how rapid prototyping and automated construction techniques are revolutionizing cost and execution time.",
+                    "original": "Examining how rapid prototyping and automated construction techniques are revolutionizing cost and execution time."
+                },
+                {
+                    "key": "news.text.27",
+                    "tag": "span",
+                    "value": "BUSINESS",
+                    "original": "BUSINESS"
+                },
+                {
+                    "key": "news.text.28",
+                    "tag": "h2",
+                    "value": "Future Trends In Real Estate Market",
+                    "original": "Future Trends In Real Estate Market"
+                },
+                {
+                    "key": "news.text.29",
+                    "tag": "p",
+                    "value": "Key statistics, buyer preferences, and financial outlooks regarding mixed-use commercial and residential properties.",
+                    "original": "Key statistics, buyer preferences, and financial outlooks regarding mixed-use commercial and residential properties."
+                },
+                {
+                    "key": "news.text.30",
+                    "tag": "span",
+                    "value": "INTERIOR",
+                    "original": "INTERIOR"
+                },
+                {
+                    "key": "news.text.31",
+                    "tag": "h2",
+                    "value": "Smart Homes: The Future of Living",
+                    "original": "Smart Homes: The Future of Living"
+                },
+                {
+                    "key": "news.text.32",
+                    "tag": "p",
+                    "value": "Automated home systems, IoT integration, energy efficiency monitoring, and secure access innovations.",
+                    "original": "Automated home systems, IoT integration, energy efficiency monitoring, and secure access innovations."
+                },
+                {
+                    "key": "news.text.33",
+                    "tag": "span",
+                    "value": "SUSTAINABILITY",
+                    "original": "SUSTAINABILITY"
+                },
+                {
+                    "key": "news.text.34",
+                    "tag": "h2",
+                    "value": "Sustainable Cities: A Greener Future",
+                    "original": "Sustainable Cities: A Greener Future"
+                },
+                {
+                    "key": "news.text.35",
+                    "tag": "p",
+                    "value": "How modern civil engineering works together with environmentalists to build low-emission, eco-friendly urban hubs.",
+                    "original": "How modern civil engineering works together with environmentalists to build low-emission, eco-friendly urban hubs."
+                },
+                {
+                    "key": "news.text.36",
+                    "tag": "h3",
+                    "value": "Search",
+                    "original": "Search"
+                },
+                {
+                    "key": "news.text.37",
+                    "tag": "h3",
+                    "value": "Categories",
+                    "original": "Categories"
+                },
+                {
+                    "key": "news.text.38",
+                    "tag": "span",
+                    "value": "Architecture",
+                    "original": "Architecture"
+                },
+                {
+                    "key": "news.text.39",
+                    "tag": "span",
+                    "value": "(4)",
+                    "original": "(4)"
+                },
+                {
+                    "key": "news.text.40",
+                    "tag": "span",
+                    "value": "Building",
+                    "original": "Building"
+                },
+                {
+                    "key": "news.text.41",
+                    "tag": "span",
+                    "value": "(6)",
+                    "original": "(6)"
+                },
+                {
+                    "key": "news.text.42",
+                    "tag": "span",
+                    "value": "Construction",
+                    "original": "Construction"
+                },
+                {
+                    "key": "news.text.43",
+                    "tag": "span",
+                    "value": "(3)",
+                    "original": "(3)"
+                },
+                {
+                    "key": "news.text.44",
+                    "tag": "span",
+                    "value": "Interior",
+                    "original": "Interior"
+                },
+                {
+                    "key": "news.text.45",
+                    "tag": "span",
+                    "value": "(5)",
+                    "original": "(5)"
+                },
+                {
+                    "key": "news.text.46",
+                    "tag": "h3",
+                    "value": "Recent Posts",
+                    "original": "Recent Posts"
+                },
+                {
+                    "key": "news.text.47",
+                    "tag": "h4",
+                    "value": "An Innovative Approach To Building Modern",
+                    "original": "An Innovative Approach To Building Modern"
+                },
+                {
+                    "key": "news.text.48",
+                    "tag": "h4",
+                    "value": "Designing For a Greener & Smarter",
+                    "original": "Designing For a Greener & Smarter"
+                },
+                {
+                    "key": "news.text.49",
+                    "tag": "h4",
+                    "value": "Architectural Wonders In The Heart",
+                    "original": "Architectural Wonders In The Heart"
+                },
+                {
+                    "key": "news.text.50",
+                    "tag": "h2",
+                    "value": "Your dream home awaits",
+                    "original": "Your dream home awaits"
+                },
+                {
+                    "key": "news.text.51",
+                    "tag": "p",
+                    "value": "Whether you're exploring our homes or envisioning something custom, we're here to bring your dream to life.",
+                    "original": "Whether you're exploring our homes or envisioning something custom, we're here to bring your dream to life."
+                },
+                {
+                    "key": "news.text.52",
+                    "tag": "button",
+                    "value": "Get Your Free Quote",
+                    "original": "Get Your Free Quote"
+                },
+                {
+                    "key": "header.0",
+                    "tag": "a",
+                    "value": "Skip to content",
+                    "original": "Skip to content"
+                },
+                {
+                    "key": "header.1",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.2",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.3",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.4",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.5",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.6",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "header.7",
+                    "tag": "span",
+                    "value": "Call Us:",
+                    "original": "Call Us:"
+                },
+                {
+                    "key": "header.8",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "header.9",
+                    "tag": "a",
+                    "value": "Home",
+                    "original": "Home"
+                },
+                {
+                    "key": "header.10",
+                    "tag": "a",
+                    "value": "About",
+                    "original": "About"
+                },
+                {
+                    "key": "header.11",
+                    "tag": "a",
+                    "value": "Services",
+                    "original": "Services"
+                },
+                {
+                    "key": "header.12",
+                    "tag": "a",
+                    "value": "Projects",
+                    "original": "Projects"
+                },
+                {
+                    "key": "header.13",
+                    "tag": "a",
+                    "value": "News",
+                    "original": "News"
+                },
+                {
+                    "key": "header.14",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.1",
+                    "tag": "p",
+                    "value": "We are creators of transformative spaces that inspire, innovate, and endure.",
+                    "original": "We are creators of transformative spaces that inspire, innovate, and endure."
+                },
+                {
+                    "key": "footer.2",
+                    "tag": "a",
+                    "value": "About Us",
+                    "original": "About Us"
+                },
+                {
+                    "key": "footer.3",
+                    "tag": "a",
+                    "value": "Why Choose Us",
+                    "original": "Why Choose Us"
+                },
+                {
+                    "key": "footer.4",
+                    "tag": "a",
+                    "value": "Our Team",
+                    "original": "Our Team"
+                },
+                {
+                    "key": "footer.5",
+                    "tag": "a",
+                    "value": "Solutions",
+                    "original": "Solutions"
+                },
+                {
+                    "key": "footer.6",
+                    "tag": "a",
+                    "value": "Partners",
+                    "original": "Partners"
+                },
+                {
+                    "key": "footer.7",
+                    "tag": "a",
+                    "value": "Core Values",
+                    "original": "Core Values"
+                },
+                {
+                    "key": "footer.8",
+                    "tag": "a",
+                    "value": "Our Projects",
+                    "original": "Our Projects"
+                },
+                {
+                    "key": "footer.9",
+                    "tag": "a",
+                    "value": "News & Updates",
+                    "original": "News & Updates"
+                },
+                {
+                    "key": "footer.10",
+                    "tag": "a",
+                    "value": "Terms & Conditions",
+                    "original": "Terms & Conditions"
+                },
+                {
+                    "key": "footer.11",
+                    "tag": "a",
+                    "value": "Support Center",
+                    "original": "Support Center"
+                },
+                {
+                    "key": "footer.12",
+                    "tag": "a",
+                    "value": "Contact",
+                    "original": "Contact"
+                },
+                {
+                    "key": "footer.13",
+                    "tag": "a",
+                    "value": "+(084) 123 - 456 88",
+                    "original": "+(084) 123 - 456 88"
+                },
+                {
+                    "key": "footer.14",
+                    "tag": "a",
+                    "value": "info@salmaproperties.com.bd",
+                    "original": "info@salmaproperties.com.bd"
+                },
+                {
+                    "key": "footer.15",
+                    "tag": "span",
+                    "value": "Facebook",
+                    "original": "Facebook"
+                },
+                {
+                    "key": "footer.16",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.17",
+                    "tag": "span",
+                    "value": "Instagram",
+                    "original": "Instagram"
+                },
+                {
+                    "key": "footer.18",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.19",
+                    "tag": "span",
+                    "value": "Youtube",
+                    "original": "Youtube"
+                },
+                {
+                    "key": "footer.20",
+                    "tag": "span",
+                    "value": "·",
+                    "original": "·"
+                },
+                {
+                    "key": "footer.21",
+                    "tag": "span",
+                    "value": "Twitter",
+                    "original": "Twitter"
+                },
+                {
+                    "key": "footer.22",
+                    "tag": "span",
+                    "value": "© 2026 Salam Properties. All Rights Reserved.",
+                    "original": "© 2026 Salam Properties. All Rights Reserved."
+                },
+                {
+                    "key": "footer.23",
+                    "tag": "span",
+                    "value": "Template Designed by CognovaIT",
+                    "original": "Template Designed by CognovaIT"
+                },
+                {
+                    "key": "footer.24",
+                    "tag": "a",
+                    "value": "Privacy Policy",
+                    "original": "Privacy Policy"
+                },
+                {
+                    "key": "footer.25",
+                    "tag": "span",
+                    "value": "|",
+                    "original": "|"
+                },
+                {
+                    "key": "footer.26",
+                    "tag": "a",
+                    "value": "Terms of Service",
+                    "original": "Terms of Service"
+                }
+            ],
+            "images": [
+                {
+                    "key": "news.image.0",
+                    "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1000&q=80",
+                    "alt": "Blog 1",
+                    "original_src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1000&q=80",
+                    "original_alt": "Blog 1"
+                },
+                {
+                    "key": "news.image.1",
+                    "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80",
+                    "alt": "Blog 2",
+                    "original_src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80",
+                    "original_alt": "Blog 2"
+                },
+                {
+                    "key": "news.image.2",
+                    "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+                    "alt": "Blog 3",
+                    "original_src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+                    "original_alt": "Blog 3"
+                },
+                {
+                    "key": "news.image.3",
+                    "src": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1000&q=80",
+                    "alt": "Blog 4",
+                    "original_src": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1000&q=80",
+                    "original_alt": "Blog 4"
+                },
+                {
+                    "key": "news.image.4",
+                    "src": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1000&q=80",
+                    "alt": "Blog 5",
+                    "original_src": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1000&q=80",
+                    "original_alt": "Blog 5"
+                },
+                {
+                    "key": "news.image.5",
+                    "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1000&q=80",
+                    "alt": "Blog 6",
+                    "original_src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1000&q=80",
+                    "original_alt": "Blog 6"
+                },
+                {
+                    "key": "news.image.6",
+                    "src": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1000&q=80",
+                    "alt": "Blog 7",
+                    "original_src": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1000&q=80",
+                    "original_alt": "Blog 7"
+                },
+                {
+                    "key": "news.image.7",
+                    "src": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=1000&q=80",
+                    "alt": "Blog 8",
+                    "original_src": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=1000&q=80",
+                    "original_alt": "Blog 8"
+                },
+                {
+                    "key": "news.image.8",
+                    "src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80",
+                    "alt": "Blog 9",
+                    "original_src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80",
+                    "original_alt": "Blog 9"
+                },
+                {
+                    "key": "news.image.9",
+                    "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=200&q=80",
+                    "alt": "post",
+                    "original_src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=200&q=80",
+                    "original_alt": "post"
+                },
+                {
+                    "key": "news.image.10",
+                    "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=200&q=80",
+                    "alt": "post",
+                    "original_src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=200&q=80",
+                    "original_alt": "post"
+                },
+                {
+                    "key": "news.image.11",
+                    "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=200&q=80",
+                    "alt": "post",
+                    "original_src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=200&q=80",
+                    "original_alt": "post"
+                },
+                {
+                    "key": "header.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                },
+                {
+                    "key": "footer.logo",
+                    "src": "assets/images/Logo_Four.png",
+                    "alt": "Spaciaz"
+                }
+            ]
+        }
+    },
+    "images": [],
+    "settings": {
+        "site_name": "Salam Properties",
+        "site_title": "Salam Properties — Real Estate & Construction",
+        "company_email": "info@salmaproperties.com.bd",
+        "company_phone": "+(084) 123 - 456 88",
+        "company_address": "401 Broadway, 24th Floor, Orchard View, London",
+        "company_about": "We are creators of transformative spaces that inspire, innovate, and endure.",
+        "copyright_text": "© 2026 Salam Properties. All Rights Reserved.",
+        "facebook_url": "https://facebook.com",
+        "twitter_url": "https://twitter.com",
+        "instagram_url": "https://instagram.com",
+        "linkedin_url": "https://linkedin.com",
+        "site_logo": "assets/images/Logo_Four.png",
+        "admin_logo": "assets/images/Logo_Four.png"
+    },
+    "property_types": [
+        {
+            "id": 1,
+            "name": "Residential",
+            "icon": "bi-houses",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "name": "Commercial",
+            "icon": "bi-building",
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "name": "Apartment",
+            "icon": "bi-building-fill",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "Villa",
+            "icon": "bi-house-heart",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "name": "Office Space",
+            "icon": "bi-briefcase",
+            "status": "active"
+        },
+        {
+            "id": 6,
+            "name": "Land & Plot",
+            "icon": "bi-geo-alt",
+            "status": "active"
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Gulshan, Dhaka",
+            "country": "Bangladesh",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "name": "Banani, Dhaka",
+            "country": "Bangladesh",
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "name": "Dhanmondi, Dhaka",
+            "country": "Bangladesh",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "Uttara, Dhaka",
+            "country": "Bangladesh",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "name": "Bashundhara R/A, Dhaka",
+            "country": "Bangladesh",
+            "status": "active"
+        },
+        {
+            "id": 6,
+            "name": "London, UK",
+            "country": "United Kingdom",
+            "status": "active"
+        }
+    ],
+    "properties": [
+        {
+            "id": 1,
+            "title": "Salam Luxury Residency",
+            "type": "Apartment",
+            "location": "Gulshan, Dhaka",
+            "price": "৳ 3.5 Crore",
+            "beds": 4,
+            "baths": 4,
+            "area": "3,200 sqft",
+            "image": "assets/images/project_9.jpg",
+            "featured": 1,
+            "status": "active",
+            "description": "Exclusive luxury modern apartment located in the prime zone of Gulshan with panoramic city views and world-class amenities."
+        },
+        {
+            "id": 2,
+            "title": "Salam Corporate Tower",
+            "type": "Commercial",
+            "location": "Banani, Dhaka",
+            "price": "৳ 8.2 Crore",
+            "beds": 0,
+            "baths": 6,
+            "area": "6,500 sqft",
+            "image": "assets/images/project_6.jpg",
+            "featured": 1,
+            "status": "active",
+            "description": "Grade-A corporate office building designed with sustainable architecture, high-speed elevators, and ample parking facilities."
+        },
+        {
+            "id": 3,
+            "title": "Lakeview Serene Villa",
+            "type": "Villa",
+            "location": "Bashundhara R/A, Dhaka",
+            "price": "৳ 5.8 Crore",
+            "beds": 5,
+            "baths": 6,
+            "area": "4,800 sqft",
+            "image": "assets/images/project_5.jpg",
+            "featured": 1,
+            "status": "active",
+            "description": "Peaceful lakeside duplex villa surrounded by lush greenery, private rooftop pool and garden."
+        },
+        {
+            "id": 4,
+            "title": "Green View Modern Residence",
+            "type": "Residential",
+            "location": "Dhanmondi, Dhaka",
+            "price": "৳ 2.9 Crore",
+            "beds": 3,
+            "baths": 3,
+            "area": "2,400 sqft",
+            "image": "assets/images/project_2.jpg",
+            "featured": 0,
+            "status": "active",
+            "description": "Contemporary residential family apartments equipped with modern fitness center, kids play zone, and rooftop community center."
+        }
+    ],
+    "inquiries": [
+        {
+            "id": 1,
+            "name": "Tareq Rahman",
+            "email": "tareq.rahman@gmail.com",
+            "phone": "+880 1712 345678",
+            "subject": "Inquiry for Salam Luxury Residency",
+            "message": "I would like to arrange a site visit this coming Saturday for the 4-bedroom apartment.",
+            "date": "2026-10-21 14:30",
+            "status": "new"
+        },
+        {
+            "id": 2,
+            "name": "Engr. Mahbub Hasan",
+            "email": "mahbub.hasan@yahoo.com",
+            "phone": "+880 1819 876543",
+            "subject": "Floor Plan for Commercial Tower",
+            "message": "Please provide the architectural floor layout and per sqft booking rates.",
+            "date": "2026-10-20 11:15",
+            "status": "contacted"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Salam Properties — Luxury real estate projects, apartments, commercial towers and residences." name="description"/>
+<title>Salam Properties — Projects</title>
+<link href="assets/images/favicon.png" rel="icon" type="image/png"/>
+
+
+<link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon"/>
+        <link href="assets/vendor/bootstrap.min.css" rel="stylesheet"/>
+<link href="assets/vendor/bootstrap-icons.min.css" rel="stylesheet"/>
+<link href="assets/css/service-page.css" rel="stylesheet"/>
+<link href="assets/css/inner-pages.css" rel="stylesheet"/>
+<link href="assets/css/project.css" rel="stylesheet"/>
+</head>
+<body>
+<!--HEADER-->
+<main id="main">
+<section class="page-hero">
+<div class="hero-overlay"></div>
+<div class="container hero-inner">
+<h1 data-cms-key="project.text.15">Our Projects</h1>
+<div class="breadcrumb">
+<a data-cms-key="project.text.16" href="index.php">Home</a>
+<span data-cms-key="project.text.17">•</span>
+<span data-cms-key="project.text.18">Our Projects</span>
+</div>
+</div>
+</section>
+
+<div class="main-wrapper">
+    <!-- Filter bar -->
+    <div class="filter-bar">
+        <select class="filter-select" id="filterStatus">
+            <option value="all">All Statuses</option>
+            <option value="ON SALE">On Sale</option>
+            <option value="UNDER CONSTRUCTION">Under Construction</option>
+        </select>
+        <select class="filter-select" id="filterType">
+            <option value="all">All Project Types</option>
+            <option value="Apartment">Apartment</option>
+            <option value="Commercial">Commercial</option>
+            <option value="Residential">Residential</option>
+            <option value="Villa">Villa</option>
+        </select>
+        <button class="btn-search" data-cms-key="project.text.19" type="button">Filter Projects</button>
+    </div>
+
+    <!-- Projects Grid with CMS Markers -->
+    <div class="projects-grid" id="projectsContainer">
+        <!-- Project 1 -->
+        <a aria-label="Mixed-Use Development" class="project-card" href="project-details.php?slug=mixed-use-development">
+            <img alt="Mixed-Use Development" class="project-img" data-cms-image-key="project.image.1" src="assets/images/project_2.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.20">ON SALE</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Gulshan, Dhaka</div>
+                    <h3 class="project-title" data-cms-key="project.text.21">Mixed-Use Development</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 2 -->
+        <a aria-label="Greenview Apartments" class="project-card" href="project-details.php?slug=greenview-apartments">
+            <img alt="Greenview Apartments" class="project-img" data-cms-image-key="project.image.2" src="assets/images/project_5.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.22">UNDER CONSTRUCTION</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Banani, Dhaka</div>
+                    <h3 class="project-title" data-cms-key="project.text.23">Greenview Apartments</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 3 -->
+        <a aria-label="Premier Office Tower" class="project-card" href="project-details.php?slug=premier-office-tower">
+            <img alt="Premier Office Tower" class="project-img" data-cms-image-key="project.image.3" src="assets/images/project_6.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.24">ON SALE</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Motijheel, Dhaka</div>
+                    <h3 class="project-title" data-cms-key="project.text.25">Premier Office Tower</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 4 -->
+        <a aria-label="Urban Heights Residence" class="project-card" href="project-details.php?slug=urban-heights-residence">
+            <img alt="Urban Heights Residence" class="project-img" data-cms-image-key="project.image.4" src="assets/images/project_9.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.26">UNDER CONSTRUCTION</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Dhanmondi, Dhaka</div>
+                    <h3 class="project-title" data-cms-key="project.text.27">Urban Heights Residence</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 5 -->
+        <a aria-label="Apartment Building" class="project-card" href="project-details.php?slug=apartment-building">
+            <img alt="Apartment Building" class="project-img" data-cms-image-key="project.image.5" src="assets/images/project_2.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.28">UNDER CONSTRUCTION</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Uttara, Dhaka</div>
+                    <h3 class="project-title" data-cms-key="project.text.29">Apartment Building</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 6 -->
+        <a aria-label="Commercial & Residential Building" class="project-card" href="project-details.php?slug=commercial-residential-building">
+            <img alt="Commercial & Residential Building" class="project-img" data-cms-image-key="project.image.6" src="assets/images/project_5.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.30">ON SALE</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Bashundhara R/A</div>
+                    <h3 class="project-title" data-cms-key="project.text.31">Commercial & Residential Building</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 7 -->
+        <a aria-label="Residential Complex" class="project-card" href="project-details.php?slug=residential-complex">
+            <img alt="Residential Complex" class="project-img" data-cms-image-key="project.image.7" src="assets/images/project_6.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.32">UNDER CONSTRUCTION</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Mirpur DOHS</div>
+                    <h3 class="project-title" data-cms-key="project.text.33">Residential Complex</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 8 -->
+        <a aria-label="Eden Estate" class="project-card" href="project-details.php?slug=eden-estate">
+            <img alt="Eden Estate" class="project-img" data-cms-image-key="project.image.8" src="assets/images/project_9.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.34">ON SALE</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Baridhara, Dhaka</div>
+                    <h3 class="project-title" data-cms-key="project.text.35">Eden Estate</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 9 -->
+        <a aria-label="Office Building" class="project-card" href="project-details.php?slug=office-building">
+            <img alt="Office Building" class="project-img" data-cms-image-key="project.image.9" src="assets/images/project_2.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.36">UNDER CONSTRUCTION</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Tejgaon, Dhaka</div>
+                    <h3 class="project-title" data-cms-key="project.text.37">Office Building</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 10 -->
+        <a aria-label="Luxury Apartment" class="project-card" href="project-details.php?slug=luxury-apartment">
+            <img alt="Luxury Apartment" class="project-img" data-cms-image-key="project.image.10" src="assets/images/project_5.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.38">ON SALE</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Gulshan-2, Dhaka</div>
+                    <h3 class="project-title" data-cms-key="project.text.39">Luxury Apartment</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 11 -->
+        <a aria-label="Residential Building" class="project-card" href="project-details.php?slug=residential-building">
+            <img alt="Residential Building" class="project-img" data-cms-image-key="project.image.11" src="assets/images/project_6.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.40">ON SALE</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Mohakhali DOHS</div>
+                    <h3 class="project-title" data-cms-key="project.text.41">Residential Building</h3>
+                </div>
+            </div>
+        </a>
+
+        <!-- Project 12 -->
+        <a aria-label="Vista at Council Square" class="project-card" href="project-details.php?slug=vista-at-council-square">
+            <img alt="Vista at Council Square" class="project-img" data-cms-image-key="project.image.12" src="assets/images/project_9.jpg"/>
+            <div class="project-overlay">
+                <span class="badge" data-cms-key="project.text.42">UNDER CONSTRUCTION</span>
+                <div class="project-info">
+                    <div class="project-location"><i class="bi bi-geo-alt-fill"></i> Banani DOHS</div>
+                    <h3 class="project-title" data-cms-key="project.text.43">Vista at Council Square</h3>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+<section class="cta-section">
+    <div class="cta-content">
+        <h2>Looking for Your Dream Property?</h2>
+        <p>Explore our exclusive collection of luxury residential apartments, premium commercial spaces, and urban landmark properties.</p>
+        <a class="btn-cta" href="contact.php">Get in Touch with Our Advisors <i class="bi bi-arrow-right"></i></a>
+    </div>
+</section>
+</main>
+<!--FOOTER-->
+<script src="assets/vendor/bootstrap.bundle.min.js"></script>
+</body>
+</html>

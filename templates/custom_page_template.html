@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Salam Properties — {{PAGE_META_DESCRIPTION}}" name="description"/>
+<title>{{PAGE_TITLE}} — Salam Properties</title>
+<link href="assets/images/favicon.png" rel="icon" type="image/png"/>
+
+
+<link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon"/>
+        <link href="assets/vendor/bootstrap.min.css" rel="stylesheet"/>
+<link href="assets/vendor/bootstrap-icons.min.css" rel="stylesheet"/>
+<link href="assets/css/service-page.css" rel="stylesheet"/>
+<link href="assets/css/inner-pages.css" rel="stylesheet"/>
+<style>
+.custom-page-section {
+    padding: 90px 0 110px;
+    background: #ffffff;
+    min-height: 520px;
+}
+.custom-page-container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+.custom-lead-box {
+    background: #f8fafc;
+    border-left: 4px solid #2563eb;
+    border-radius: 0 16px 16px 0;
+    padding: 24px 28px;
+    margin-bottom: 35px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #1e293b;
+    line-height: 1.6;
+}
+.custom-article-body {
+    font-size: 16px;
+    line-height: 1.85;
+    color: #334155;
+}
+.custom-article-body h2, .custom-article-body h3 {
+    color: #0f172a;
+    font-weight: 700;
+    margin: 32px 0 16px;
+}
+.custom-article-body p {
+    margin-bottom: 20px;
+}
+.custom-featured-image {
+    width: 100%;
+    max-height: 440px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-bottom: 35px;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+}
+.custom-cta-box {
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 24px;
+    background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.custom-cta-box h3 {
+    margin: 0 0 8px;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+}
+.custom-cta-box p {
+    margin: 0;
+    color: #94a3b8;
+    font-size: 14px;
+}
+.btn-custom-contact {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #d6f045;
+    color: #0f172a;
+    padding: 13px 26px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 14px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+}
+.btn-custom-contact:hover {
+    background: #e2f85e;
+    color: #000000;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(214, 240, 69, 0.4);
+}
+</style>
+</head>
+<body>
+<!--HEADER-->
+<main id="main">
+<section class="page-hero">
+    <div class="hero-overlay"></div>
+    <div class="container hero-inner">
+        <h1 data-cms-key="{{PAGE_SLUG}}.text.1">{{PAGE_HEADING}}</h1>
+        <div class="breadcrumb">
+            <a href="index.php">Home</a>
+            <span>•</span>
+            <span data-cms-key="{{PAGE_SLUG}}.text.2">{{PAGE_BREADCRUMB}}</span>
+        </div>
+    </div>
+</section>
+
+<section class="custom-page-section">
+    <div class="container custom-page-container">
+        <!-- Featured Image (Optional) -->
+        {{FEATURED_IMAGE_HTML}}
+
+        <!-- Lead Introduction -->
+        <div class="custom-lead-box" data-cms-key="{{PAGE_SLUG}}.text.3">
+            {{PAGE_SUBTITLE}}
+        </div>
+
+        <!-- Main Body Content -->
+        <div class="custom-article-body" data-cms-key="{{PAGE_SLUG}}.text.4">
+            {{PAGE_CONTENT}}
+        </div>
+
+        <!-- Call to Action Banner -->
+        <div class="custom-cta-box">
+            <div>
+                <h3>Looking for expert property guidance?</h3>
+                <p>Connect with our dedicated relationship managers for personalized solutions.</p>
+            </div>
+            <a href="contact.php" class="btn-custom-contact">
+                Contact Our Team <i class="bi bi-arrow-up-right"></i>
+            </a>
+        </div>
+    </div>
+</section>
+</main>
+<!--FOOTER-->
+</body>
+</html>

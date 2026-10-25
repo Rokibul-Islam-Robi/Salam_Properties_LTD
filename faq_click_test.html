@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8"/>
+<link href="http://localhost:8199/assets/vendor/bootstrap.min.css" rel="stylesheet"/>
+<link href="http://localhost:8199/assets/vendor/bootstrap-icons.min.css" rel="stylesheet"/>
+<link href="http://localhost:8199/assets/css/service-page.css" rel="stylesheet"/>
+<link href="http://localhost:8199/assets/css/service-details.css" rel="stylesheet"/>
+<link href="http://localhost:8199/assets/css/inner-pages.css" rel="stylesheet"/>
+</head><body>
+<section class="sd-block sd-faq" style="padding:40px">
+<h2>Popular Questions</h2>
+<div class="sd-faq-list" id="faqList">
+<div class="sd-faq-item"><button class="sd-faq-q" type="button" aria-expanded="false"><span>Q1 first question?</span><span class="sd-faq-icon"><i class="bi bi-chevron-down"></i></span></button><div class="sd-faq-a"><div class="sd-faq-a-wrap"><p>Answer 1 text.</p></div></div></div>
+<div class="sd-faq-item"><button class="sd-faq-q" type="button" aria-expanded="false"><span>Q2 second question?</span><span class="sd-faq-icon"><i class="bi bi-chevron-down"></i></span></button><div class="sd-faq-a"><div class="sd-faq-a-wrap"><p>Answer 2 text.</p></div></div></div>
+<div class="sd-faq-item"><button class="sd-faq-q" type="button" aria-expanded="false"><span>Q3 third question?</span><span class="sd-faq-icon"><i class="bi bi-chevron-down"></i></span></button><div class="sd-faq-a"><div class="sd-faq-a-wrap"><p>Answer 3 text.</p></div></div></div>
+</div>
+</section>
+<pre id="out">pending...</pre>
+<script src="http://localhost:8199/assets/js/service-details.js"></script>
+<script>
+function run(){
+  var log = [];
+  var list = document.getElementById("faqList");
+  var items = list.querySelectorAll(".sd-faq-item");
+  var btns = list.querySelectorAll(".sd-faq-q");
+  log.push("0 initial open: " + list.querySelectorAll(".sd-faq-item.open").length);
+  btns[0].click();
+  log.push("1 click Q1: open=" + items[0].classList.contains("open") + " aria=" + btns[0].getAttribute("aria-expanded"));
+  btns[1].click();
+  log.push("2 click Q2: Q1open=" + items[0].classList.contains("open") + " Q2open=" + items[1].classList.contains("open"));
+  btns[1].click();
+  log.push("3 reclick Q2: open=" + items[1].classList.contains("open"));
+  btns[2].click();
+  log.push("4 click Q3: openCount=" + list.querySelectorAll(".sd-faq-item.open").length);
+  document.getElementById("out").textContent = log.join("\n");
+}
+if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", function(){ setTimeout(run, 50); });
+else setTimeout(run, 50);
+</script>
+</body></html>
