@@ -703,22 +703,106 @@ body {
     z-index: 10;
 }
 
-/* Responsive */
+/* Responsive & Adaptive Layout */
 @media (max-width: 992px) {
     .admin-sidebar {
         position: fixed;
         left: -270px;
+        top: 0;
+        bottom: 0;
+        z-index: 1045;
+        box-shadow: 4px 0 24px rgba(0, 0, 0, 0.25);
     }
     .admin-sidebar.show {
         left: 0;
     }
     .sidebar-toggle {
-        display: inline-block;
+        display: inline-flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+    .admin-main {
+        width: 100% !important;
+        min-width: 0 !important;
     }
     .admin-content {
         padding: 20px 16px;
     }
     .admin-topbar, .admin-footer {
         padding: 0 16px;
+    }
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 14px;
+    }
+}
+
+@media (max-width: 768px) {
+    .stats-grid {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+    .page-title-box {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+    .page-title {
+        font-size: 20px;
+    }
+    .admin-topbar {
+        height: 60px;
+    }
+    .topbar-left {
+        gap: 10px;
+    }
+    .breadcrumb-corporate {
+        font-size: 12px;
+    }
+    .btn-live-site span {
+        display: none;
+    }
+    .btn-user-profile .user-name {
+        display: none;
+    }
+    .btn-user-profile {
+        padding: 4px 6px;
+    }
+    .corp-card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+    .corp-card-actions {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+    .corp-card-body {
+        padding: 16px 14px;
+    }
+    .admin-footer {
+        flex-direction: column;
+        gap: 8px;
+        text-align: center;
+        padding: 14px 16px;
+    }
+    .table-responsive {
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+}
+
+@media (max-width: 480px) {
+    .admin-content {
+        padding: 14px 10px;
+    }
+    .stat-card-modern {
+        padding: 16px;
+    }
+    .stat-number {
+        font-size: 24px;
     }
 }
