@@ -4393,6 +4393,47 @@ img, video, iframe, canvas, svg {
         height: 85px !important;
     }
 
+    /* 1st Image Adjustment: Add generous space above "OUR COMMITMENT / Why Choose Salam Properties Ltd." in Mobile */
+    .commitment-section {
+        padding-top: 50px !important;
+    }
+    .commitment-grid {
+        gap: 35px !important;
+    }
+    .commitment-content {
+        margin-top: 45px !important;
+        padding-top: 10px !important;
+    }
+    .commitment-content .loop-btn {
+        margin-bottom: 18px !important;
+    }
+
+    /* 2nd Image Adjustment: Reduce empty spaces around Testimonials & Partners in Mobile */
+    .testimonial-section {
+        padding: 95px 0 25px !important;
+        margin-top: 20px !important;
+    }
+    .testimonial-box {
+        width: 95% !important;
+        min-height: auto !important;
+        margin-bottom: 10px !important;
+    }
+    .testimonial-box blockquote {
+        margin-bottom: 16px !important;
+        font-size: 21px !important;
+        line-height: 1.35 !important;
+    }
+    .testimonial-box .person {
+        margin-bottom: 0 !important;
+    }
+    .partners-section {
+        padding: 25px 0 35px !important;
+    }
+    .partners-section .section-title {
+        margin-bottom: 22px !important;
+        font-size: 16px !important;
+    }
+
     .footer-top-inner {
         flex-direction: column !important;
         gap: 28px !important;
