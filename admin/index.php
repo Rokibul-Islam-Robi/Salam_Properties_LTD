@@ -136,7 +136,7 @@ require __DIR__ . '/includes/layout_header.php';
                         <tr>
                             <td>
                                 <div class="d-flex align-items-center gap-2">
-                                    <img src="../<?= e($prop['image'] ?? 'assets/images/project_9.jpg') ?>" style="width:40px;height:40px;object-fit:cover;border-radius:8px;" alt="">
+                                    <img src="/<?= e(ltrim($prop['image'] ?? 'assets/images/project_9.jpg', '/')) ?>" style="width:40px;height:40px;object-fit:cover;border-radius:8px;" alt="">
                                     <strong style="font-size:13px;"><?= e($prop['title'] ?? '') ?></strong>
                                 </div>
                             </td>

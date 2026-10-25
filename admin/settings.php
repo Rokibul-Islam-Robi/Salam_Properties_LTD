@@ -163,7 +163,7 @@ require __DIR__ . '/includes/layout_header.php';
                     <input type="file" name="site_logo" class="form-control form-control-corporate" accept="image/*">
                     <?php if (!empty($settings['site_logo'])): ?>
                     <div class="mt-2 p-3 bg-light rounded d-inline-block">
-                        <img src="../<?= e($settings['site_logo']) ?>" style="max-height:60px;" alt="Site Logo">
+                        <img src="/<?= e(ltrim($settings['site_logo'], '/')) ?>" style="max-height:60px;" alt="Site Logo">
                     </div>
                     <?php endif; ?>
                 </div>
@@ -172,7 +172,7 @@ require __DIR__ . '/includes/layout_header.php';
                     <input type="file" name="admin_logo" class="form-control form-control-corporate" accept="image/*">
                     <?php if (!empty($settings['admin_logo'])): ?>
                     <div class="mt-2 p-3 rounded d-inline-block" style="background:var(--sidebar-bg);">
-                        <img src="../<?= e($settings['admin_logo']) ?>" style="max-height:60px;" alt="Admin Logo">
+                        <img src="/<?= e(ltrim($settings['admin_logo'], '/')) ?>" style="max-height:60px;" alt="Admin Logo">
                     </div>
                     <?php endif; ?>
                 </div>

@@ -10,6 +10,10 @@
       "dest": "/assets/$1"
     },
     {
+      "src": "/admin/assets/(.*)",
+      "dest": "/admin/assets/$1"
+    },
+    {
       "src": "/uploads/(.*)",
       "dest": "/uploads/$1"
     },

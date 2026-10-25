@@ -229,7 +229,7 @@ require __DIR__ . '/includes/layout_header.php';
             </button>
         </form>
         <?php endif; ?>
-        <a href="../<?= e($editPage) ?>.php" target="_blank" class="btn btn-outline-corporate"><i class="bi bi-eye me-1"></i> View Live Page</a>
+        <a href="/<?= e($editPage) ?>.php" target="_blank" class="btn btn-outline-corporate"><i class="bi bi-eye me-1"></i> View Live Page</a>
         <a href="pages.php" class="btn btn-outline-corporate"><i class="bi bi-arrow-left me-1"></i> Back to Pages</a>
     </div>
 </div>
@@ -290,9 +290,9 @@ require __DIR__ . '/includes/layout_header.php';
                 <?php foreach ($pd['images'] ?? [] as $item): ?>
                 <div class="col-md-4 col-lg-3">
                     <div style="border:1px solid var(--corp-border);border-radius:var(--radius-md);padding:12px;">
-                        <img src="<?= e(preg_match('#^https?://#i', $item['src']) ? $item['src'] : '../' . $item['src']) ?>" 
+                        <img src="<?= e(preg_match('#^https?://#i', $item['src']) ? $item['src'] : '/' . ltrim($item['src'], '/')) ?>" 
                              style="width:100%;height:130px;object-fit:cover;border-radius:8px;background:#f1f5f9;" 
-                             onerror="this.src='../assets/images/Logo_Four.png'" alt="">
+                             onerror="this.src='/assets/images/Logo_Four.png'" alt="">
                         <small class="text-muted d-block mt-2" style="word-break:break-all;"><?= e($item['key']) ?></small>
                         <label class="form-label-corporate mt-2">Alt text</label>
                         <input name="alt[<?= e($item['key']) ?>]" value="<?= e($item['alt']) ?>" class="form-control form-control-corporate" style="font-size:12px;">
@@ -474,7 +474,7 @@ require __DIR__ . '/includes/layout_header.php';
                         <a href="pages.php?page=<?= e($slug) ?>" class="btn btn-sm btn-outline-corporate">
                             <i class="bi bi-pencil-square me-1"></i> Edit
                         </a>
-                        <a href="../<?= e($slug) ?>.php" target="_blank" class="btn btn-sm btn-outline-corporate">
+                        <a href="/<?= e($slug) ?>.php" target="_blank" class="btn btn-sm btn-outline-corporate">
                             <i class="bi bi-box-arrow-up-right me-1"></i> View
                         </a>
                     </div>

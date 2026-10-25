@@ -233,12 +233,12 @@ require __DIR__ . '/includes/layout_header.php';
             <div class="row g-4">
                 <?php foreach ($filteredImages as $idx => $img): 
                     $src = $img['src'];
-                    $displaySrc = preg_match('#^https?://#i', $src) ? $src : '../' . $src;
+                    $displaySrc = preg_match('#^https?://#i', $src) ? $src : '/' . ltrim($src, '/');
                 ?>
                 <div class="col-sm-6 col-md-4 col-lg-3">
                     <div class="gallery-card" style="border:1px solid var(--corp-border);border-radius:var(--radius-md);overflow:hidden;background:#fff;transition:transform 0.2s,box-shadow 0.2s;">
                         <div style="position:relative;height:160px;background:#f8fafc;overflow:hidden;cursor:pointer;" onclick="previewImage('<?= e($displaySrc) ?>', '<?= e($img['title']) ?>')">
-                            <img src="<?= e($displaySrc) ?>" alt="<?= e($img['title']) ?>" style="width:100%;height:100%;object-fit:cover;" onerror="this.src='../assets/images/Logo_Four.png'">
+                            <img src="<?= e($displaySrc) ?>" alt="<?= e($img['title']) ?>" style="width:100%;height:100%;object-fit:cover;" onerror="this.src='/assets/images/Logo_Four.png'">
                             <span class="badge bg-dark" style="position:absolute;top:8px;left:8px;font-size:10px;opacity:0.85;"><?= e($img['tag']) ?></span>
                         </div>
                         <div style="padding:12px;">

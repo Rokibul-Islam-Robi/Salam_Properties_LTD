@@ -190,7 +190,7 @@ require __DIR__ . '/includes/layout_header.php';
                     <input type="file" name="image" class="form-control form-control-corporate" accept="image/*">
                     <?php if ($editProp && !empty($editProp['image'])): ?>
                     <div class="mt-2">
-                        <img src="../<?= e($editProp['image']) ?>" style="width:120px;height:80px;object-fit:cover;border-radius:8px;border:1px solid var(--corp-border);">
+                        <img src="/<?= e(ltrim($editProp['image'], '/')) ?>" style="width:120px;height:80px;object-fit:cover;border-radius:8px;border:1px solid var(--corp-border);">
                         <small class="text-muted d-block mt-1">Current image</small>
                     </div>
                     <?php endif; ?>
@@ -288,7 +288,7 @@ require __DIR__ . '/includes/layout_header.php';
                 <tr>
                     <td>
                         <div class="d-flex align-items-center gap-3">
-                            <img src="../<?= e($prop['image'] ?? 'assets/images/project_9.jpg') ?>" style="width:50px;height:50px;object-fit:cover;border-radius:8px;" alt="">
+                            <img src="/<?= e(ltrim($prop['image'] ?? 'assets/images/project_9.jpg', '/')) ?>" style="width:50px;height:50px;object-fit:cover;border-radius:8px;" alt="">
                             <div>
                                 <strong style="font-size:13px;"><?= e($prop['title'] ?? '') ?></strong>
                                 <?php if (!empty($prop['featured'])): ?>

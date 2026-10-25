@@ -3,7 +3,7 @@
             <!-- Modern Corporate Footer -->
             <footer class="admin-footer">
                 <div class="footer-left d-flex align-items-center gap-2">
-                    <img src="../<?= e($cmsLogo ?? 'assets/images/Logo_Four.png') ?>" alt="<?= e($cmsCompanyName ?? 'Salam Properties') ?>" style="height:24px;width:auto;object-fit:contain;" onerror="this.src='../assets/images/Logo_Four.png'">
+                    <img src="/<?= e(ltrim($cmsLogo ?? 'assets/images/Logo_Four.png', '/')) ?>" alt="<?= e($cmsCompanyName ?? 'Salam Properties') ?>" style="height:24px;width:auto;object-fit:contain;" onerror="this.src='/assets/images/Logo_Four.png'">
                     <span>© <?= date('Y') ?> <strong><?= e($cmsCompanyName ?? 'Salam Properties') ?></strong>. All rights reserved.</span>
                 </div>
                 <div class="footer-right">
@@ -14,7 +14,7 @@
     </div>
 
     <!-- Bootstrap 5 JS Bundle -->
-    <script src="../assets/vendor/bootstrap.bundle.min.js"></script>
+    <script src="/assets/vendor/bootstrap.bundle.min.js"></script>
     <script>
         // Sidebar Toggle for Mobile/Responsive
         const sidebarToggle = document.getElementById('sidebarToggle');
