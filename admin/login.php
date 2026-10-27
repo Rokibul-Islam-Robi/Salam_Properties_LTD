@@ -17,7 +17,7 @@ if($_SERVER['REQUEST_METHOD']==='POST'){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Salam Properties — Enterprise Admin Login</title>
-    <link rel="stylesheet" href="/assets/vendor/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="<?= base_url('assets/vendor/bootstrap-icons.min.css') ?>">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -286,15 +286,15 @@ if($_SERVER['REQUEST_METHOD']==='POST'){
 
         @media (prefers-reduced-motion: reduce) {
             .bg-video { display: none; }
-            body { background: #060b14 url('/admin/assets/login_poster.jpg') center/cover no-repeat; }
+            body { background: #060b14 url('<?= base_url('admin/assets/login_poster.jpg') ?>') center/cover no-repeat; }
         }
     </style>
 </head>
 <body>
 
     <!-- Real Estate Video Background (Enhanced Brightness & Ultra-Clear Text) -->
-    <video class="bg-video" autoplay muted loop playsinline preload="auto" poster="/admin/assets/login_poster.jpg">
-        <source src="/admin/assets/salam_realestate_bg.mp4" type="video/mp4">
+    <video class="bg-video" autoplay muted loop playsinline preload="auto" poster="<?= base_url('admin/assets/login_poster.jpg') ?>">
+        <source src="<?= base_url('admin/assets/salam_realestate_bg.mp4') ?>" type="video/mp4">
     </video>
     
     <!-- Light Soft Overlay so Video & Salam Properties Text are clearly visible -->
@@ -305,7 +305,7 @@ if($_SERVER['REQUEST_METHOD']==='POST'){
     <!-- Premium Pure White Corporate Login Card -->
     <form class="login-card" method="POST" action="">
         <div class="brand-header">
-            <img src="/assets/images/salam_official_logo.png" alt="Salam Properties" class="site-login-logo">
+            <img src="<?= base_url('assets/images/salam_official_logo.png') ?>" alt="Salam Properties" class="site-login-logo">
         </div>
 
         <div class="welcome-text">

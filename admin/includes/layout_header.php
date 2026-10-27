@@ -9,12 +9,12 @@ $cmsCompanyName = !empty($cmsSiteSettings['site_name']) ? $cmsSiteSettings['site
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= e($cmsCompanyName) ?> — Premium Admin Portal</title>
-    <link rel="stylesheet" href="/assets/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/vendor/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="<?= base_url('assets/vendor/bootstrap.min.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('assets/vendor/bootstrap-icons.min.css') ?>">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/admin/assets/admin-modern.css">
+    <link rel="stylesheet" href="<?= base_url('admin/assets/admin-modern.css') ?>">
 </head>
 <body>
     <div class="admin-wrapper">
@@ -23,7 +23,7 @@ $cmsCompanyName = !empty($cmsSiteSettings['site_name']) ? $cmsSiteSettings['site
             <div class="sidebar-header">
                 <a href="index.php" class="brand-link">
                     <div class="brand-logo-wrap">
-                        <img src="/<?= e(ltrim($cmsLogo, '/')) ?>" alt="<?= e($cmsCompanyName) ?>" class="site-main-logo" onerror="this.src='/assets/images/Logo_Four.png'">
+                        <img src="<?= base_url(e(ltrim($cmsLogo, '/'))) ?>" alt="<?= e($cmsCompanyName) ?>" class="site-main-logo" onerror="this.src='<?= base_url('assets/images/Logo_Four.png') ?>'">
                     </div>
                     <div class="brand-text">
                         <span class="brand-title"><?= e($cmsCompanyName) ?></span>
@@ -157,7 +157,7 @@ $cmsCompanyName = !empty($cmsSiteSettings['site_name']) ? $cmsSiteSettings['site
                 </div>
 
                 <div class="topbar-right">
-                    <a href="/index.php" target="_blank" class="btn btn-live-site">
+                    <a href="<?= base_url('index.php') ?>" target="_blank" class="btn btn-live-site">
                         <i class="bi bi-globe me-1"></i> Live Website
                     </a>
 

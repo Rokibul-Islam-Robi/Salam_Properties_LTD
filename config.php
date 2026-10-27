@@ -59,3 +59,16 @@ function e($v){return htmlspecialchars((string)$v,ENT_QUOTES,'UTF-8');}
 function logged_in(){return !empty($_SESSION['cms_admin']);}
 function require_admin(){if(!logged_in()){header('Location: login.php');exit;}}
 function page_label($p){return ucwords(str_replace(['-','_'],' ',$p));}
+
+function base_url($path = '') {
+    $scriptName = $_SERVER['SCRIPT_NAME'] ?? '';
+    // Look for /admin in script name or detect folder name
+    $dir = dirname($scriptName);
+    // If inside /admin, go one level up
+    if (basename($dir) === 'admin') {
+        $dir = dirname($dir);
+    }
+    $base = rtrim(str_replace('\\', '/', $dir), '/');
+    $path = ltrim($path, '/');
+    return ($base === '' ? '' : $base) . '/' . $path;
+}
